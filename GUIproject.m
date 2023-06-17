@@ -346,7 +346,7 @@ end
 
 % --- Executes on button press in pushbutton1.
 function pushbutton1_Callback(hObject, eventdata, handles)
-load("NeuronTrained.mat");
+load("variablesNN.mat");
 P_gender = handles.Gendermenu;
 P_smoke = handles.SmokingMenu/3;
 P_age = str2double(get(handles.Age_in,'String'))/80;
@@ -358,8 +358,8 @@ P_blood = str2double(get(handles.bloodGluc,'String'))/300;
 
 Pattern = [P_gender;P_smoke;P_age;P_hype;P_heart;P_bmi;P_lvl;P_blood];
 
-disp('Pattern: ')
-disp(Pattern)
+%disp('Pattern: ')
+%disp(Pattern)
 
 a1 = logsig(W1 * Pattern + b1);
 a2 = logsig(W2 * a1 + b2);
