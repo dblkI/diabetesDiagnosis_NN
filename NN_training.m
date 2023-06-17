@@ -25,7 +25,7 @@ b2 = rand(S2,1);
 W3 = rand(S3,S2);
 b3 = rand(S3,1);
 
-alpha = 0.01;
+alpha = 0.001;
 epochs = 5000;
 
 for i = 1:epochs
@@ -68,8 +68,8 @@ correlationMatrix = corrcoef(training);
 % disp(correlationMatrix);
 % 
 C = confusionmat(Ttg, T_predicted);
-% disp('Confusion Matrix training data:');
-% disp(C);
+disp('Confusion Matrix training data:');
+disp(C);
 accuracy = sum(diag(C)) / sum(C(:));
 disp('Accuracy training data:');
 disp(accuracy);
@@ -90,13 +90,15 @@ end
 
 correlationMatrix = corrcoef(testing);
 
-disp('Correlation Matrix testing data:');
+% disp('Correlation Matrix testing data:');
 % disp(correlationMatrix);
 
 C = confusionmat(Ttt, T_predicted);
-% disp('Confusion Matrix testing data:');
-% disp(C);
+disp('Confusion Matrix testing data:');
+disp(C);
 
 accuracy = sum(diag(C)) / sum(C(:));
 disp('Accuracy testing data:');
 disp(accuracy);
+
+save('variablesNN.mat','W1','W2','W3','b1','b2','b3');
