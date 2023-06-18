@@ -45,16 +45,16 @@ end
 
 
 % --- Executes just before GUIproject is made visible.
-function GUIproject_OpeningFcn(hObject, eventdata, handles, varargin)
-historial = readmatrix("testing.csv");
-set(handles.Table1, 'Data',historial);
+function GUIproject_OpeningFcn(hObject, ~, handles, varargin)
+historial = readtable("data\data_clean.csv");
+% historial = readmatrix("data\data_clean.csv");
+set(handles.Table1, 'Data',table2cell(historial));
 
 set(handles.Gendermenu,'Value',3);
 set(handles.SmokingMenu,'Value',5);
 set(handles.hypertens,'Value',3);
 set(handles.Heartdisease,'Value',3);
 set(handles.BMI,'Value',7);
-
 
 % This function has no output args, see OutputFcn.
 % hObject    handle to figure
@@ -77,7 +77,7 @@ imshow(background);
 set(handles.Diabets,'string',"Consult your doctor if you have any suspicions.");
 
 % --- Outputs from this function are returned to the command line.
-function varargout = GUIproject_OutputFcn(hObject, eventdata, handles) 
+function varargout = GUIproject_OutputFcn(~, ~, handles) 
 % varargout  cell array for returning output args (see VARARGOUT);
 % hObject    handle to figure
 % eventdata  reserved - to be defined in a future version of MATLAB
@@ -88,7 +88,7 @@ varargout{1} = handles.output;
 
 
 % --- Executes on selection change in Gendermenu.
-function Gendermenu_Callback(hObject, eventdata, handles)
+function Gendermenu_Callback(hObject, ~, handles)
 gnder = get (hObject,'Value');
 if gnder == 1
     handles.Gendermenu = 0 ;
@@ -104,7 +104,7 @@ guidata(hObject, handles);
 
 
 % --- Executes during object creation, after setting all properties.
-function Gendermenu_CreateFcn(hObject, eventdata, handles)
+function Gendermenu_CreateFcn(hObject, ~, ~)
 % hObject    handle to Gendermenu (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -117,7 +117,7 @@ end
 
 
 % --- Executes on selection change in SmokingMenu.
-function SmokingMenu_Callback(hObject, eventdata, handles)
+function SmokingMenu_Callback(hObject, ~, handles)
 smoke = get(hObject,'Value');
 if smoke == 1 
     handles.SmokingMenu = 0;
@@ -138,7 +138,7 @@ guidata(hObject, handles);
 
 
 % --- Executes during object creation, after setting all properties.
-function SmokingMenu_CreateFcn(hObject, eventdata, handles)
+function SmokingMenu_CreateFcn(hObject, ~, ~)
 % hObject    handle to SmokingMenu (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -151,7 +151,7 @@ end
 
 
 
-function Age_in_Callback(hObject, eventdata, handles)
+function Age_in_Callback(~, ~, ~)
 
 % hObject    handle to Age_in (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
@@ -162,7 +162,7 @@ function Age_in_Callback(hObject, eventdata, handles)
 
 
 % --- Executes during object creation, after setting all properties.
-function Age_in_CreateFcn(hObject, eventdata, handles)
+function Age_in_CreateFcn(hObject, ~, ~)
 % hObject    handle to Age_in (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -175,7 +175,7 @@ end
 
 
 % --- Executes on selection change in hypertens.
-function hypertens_Callback(hObject, eventdata, handles)
+function hypertens_Callback(hObject, ~, handles)
 hypert = get (hObject,'Value');
 if hypert == 1
     handles.hypertens = 1 ;
@@ -193,7 +193,7 @@ guidata(hObject, handles);
 
 
 % --- Executes during object creation, after setting all properties.
-function hypertens_CreateFcn(hObject, eventdata, handles)
+function hypertens_CreateFcn(hObject, ~, ~)
 % hObject    handle to hypertens (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -206,7 +206,7 @@ end
 
 
 % --- Executes on selection change in Heartdisease.
-function Heartdisease_Callback(hObject, eventdata, handles)
+function Heartdisease_Callback(hObject, ~, handles)
 heartd = get (hObject,'Value');
 if heartd == 1
     handles.Heartdisease = 1 ;
@@ -223,7 +223,7 @@ guidata(hObject, handles);
 
 
 % --- Executes during object creation, after setting all properties.
-function Heartdisease_CreateFcn(hObject, eventdata, handles)
+function Heartdisease_CreateFcn(hObject, ~, ~)
 % hObject    handle to Heartdisease (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -236,7 +236,7 @@ end
 
 
 
-function BMI_Callback(hObject, eventdata, handles)
+function BMI_Callback(hObject, ~, handles)
 bmi = get (hObject,'Value');
 if bmi == 1
     handles.BMI = 0 ;
@@ -261,7 +261,7 @@ guidata(hObject, handles);
 
 
 % --- Executes during object creation, after setting all properties.
-function BMI_CreateFcn(hObject, eventdata, handles)
+function BMI_CreateFcn(hObject, ~, ~)
 % hObject    handle to BMI (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -274,7 +274,7 @@ end
 
 
 
-function HbA1c_Callback(hObject, eventdata, handles)
+function HbA1c_Callback(~, ~, ~)
 
 % hObject    handle to HbA1c (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
@@ -285,7 +285,7 @@ function HbA1c_Callback(hObject, eventdata, handles)
 
 
 % --- Executes during object creation, after setting all properties.
-function HbA1c_CreateFcn(hObject, eventdata, handles)
+function HbA1c_CreateFcn(hObject, ~, ~)
 % hObject    handle to HbA1c (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -298,7 +298,7 @@ end
 
 
 
-function bloodGluc_Callback(hObject, eventdata, handles)
+function bloodGluc_Callback(~, ~, ~)
 
 % hObject    handle to bloodGluc (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
@@ -309,7 +309,7 @@ function bloodGluc_Callback(hObject, eventdata, handles)
 
 
 % --- Executes during object creation, after setting all properties.
-function bloodGluc_CreateFcn(hObject, eventdata, handles)
+function bloodGluc_CreateFcn(hObject, ~, ~)
 % hObject    handle to bloodGluc (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -322,7 +322,7 @@ end
 
 
 
-function Diabets_Callback(hObject, eventdata, handles)
+function Diabets_Callback(~, ~, ~)
 % hObject    handle to Diabets (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
@@ -332,7 +332,7 @@ function Diabets_Callback(hObject, eventdata, handles)
 
 
 % --- Executes during object creation, after setting all properties.
-function Diabets_CreateFcn(hObject, eventdata, handles)
+function Diabets_CreateFcn(hObject, ~, ~)
 % hObject    handle to Diabets (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
@@ -345,7 +345,7 @@ end
 
 
 % --- Executes on button press in pushbutton1.
-function pushbutton1_Callback(hObject, eventdata, handles)
+function pushbutton1_Callback(~, ~, handles)
 load("variablesNN.mat");
 P_gender = handles.Gendermenu;
 P_smoke = handles.SmokingMenu/3;

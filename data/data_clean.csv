@@ -1,0 +1,2001 @@
+gender,smoking_history,age,hypertension,heart_disease,bmi,HbA1c_level,blood_glucose_level,diabetes
+Female,ever,46,No,No,Obesity class I,6.6,140,Yes
+Female,never,57,No,No,Overweight,6.1,155,Yes
+Female,current,56,No,No,Normal,6.2,100,No
+Female,never,49,No,No,Normal,4.5,100,No
+Female,never,26,No,No,Normal,6.5,90,No
+Male,never,70,Yes,No,Obesity class I,6,159,Yes
+Female,never,66,No,No,Normal,6.2,90,No
+Female,current,30,No,No,Obesity class I,3.5,90,No
+Female,never,48,Yes,No,Overweight,6.1,200,Yes
+Female,never,52,Yes,No,Obesity class II,5,130,Yes
+Female,never,80,No,No,Normal,6.2,140,Yes
+Female,current,60,No,No,Obesity class I,6,140,Yes
+Female,ever,56,Yes,No,Obesity class II,4.8,145,Yes
+Female,former,37,No,No,Obesity class I,6,159,Yes
+Female,former,75,No,No,Obesity class I,4.5,200,Yes
+Female,never,31,No,No,Underweight,5.7,85,No
+Male,never,34,No,No,Obesity class II,5.8,160,Yes
+Female,never,28,No,No,Normal,5.8,145,Yes
+Female,never,60,Yes,Yes,Obesity class III,6.5,260,Yes
+Male,never,35,No,No,Overweight,5,126,No
+Male,never,77,No,No,Overweight,6.5,126,No
+Female,former,74,No,No,Overweight,6,100,No
+Female,never,61,No,No,Obesity class I,6.1,90,No
+Male,current,57,No,No,Overweight,5.7,155,Yes
+Female,former,50,No,No,Overweight,6.6,159,Yes
+Female,never,38,No,No,Normal,6,85,No
+Male,never,61,No,No,Obesity class III,5.7,159,Yes
+Female,never,36,No,No,Obesity class III,3.5,200,Yes
+Male,never,62,No,No,Normal,5.7,158,Yes
+Male,former,42,No,No,Overweight,5.7,155,Yes
+Male,ever,63,No,Yes,Normal,6.1,90,No
+Female,current,56,No,No,Obesity class I,3.5,200,Yes
+Female,never,58,No,No,Overweight,4.8,90,No
+Male,ever,43,No,No,Obesity class III,6.2,260,Yes
+Male,never,39,No,No,Obesity class I,6.6,140,Yes
+Female,current,29,No,No,Normal,3.5,160,Yes
+Male,ever,70,No,No,Obesity class III,4,126,No
+Male,never,55,No,No,Overweight,4,160,Yes
+Female,former,47,No,No,Overweight,4,80,No
+Female,never,60,No,No,Overweight,6.5,126,No
+Female,former,72,No,No,Normal,5.7,158,Yes
+Female,never,55,No,No,Overweight,5,155,Yes
+Male,never,49,No,No,Overweight,6.5,100,No
+Male,current,76,Yes,No,Obesity class III,4,100,No
+Male,former,80,No,Yes,Overweight,6.1,200,Yes
+Female,ever,77,Yes,No,Obesity class III,6,160,Yes
+Female,never,41,No,No,Obesity class II,4,159,Yes
+Male,never,50,No,No,Overweight,6.1,80,No
+Female,never,28,No,No,Overweight,5.8,80,No
+Female,never,52,No,No,Normal,4.8,100,No
+Male,former,42,No,No,Overweight,6.1,126,No
+Female,former,66,No,No,Overweight,6,90,No
+Male,never,47,No,No,Overweight,4,155,Yes
+Female,never,52,No,No,Obesity class I,6,160,Yes
+Female,current,65,Yes,Yes,Normal,7.5,130,Yes
+Female,current,46,Yes,No,Obesity class II,6.6,100,Yes
+Female,never,49,No,No,Obesity class III,6.1,130,Yes
+Female,current,64,No,No,Overweight,6.6,90,Yes
+Male,former,60,No,No,Obesity class I,5,126,No
+Female,never,28,No,No,Normal,6.5,126,No
+Female,never,40,No,No,Overweight,4,85,No
+Male,never,50,Yes,No,Overweight,4.5,158,Yes
+Female,never,80,No,No,Normal,6,90,No
+Male,ever,80,No,No,Normal,6.8,260,Yes
+Male,former,61,Yes,No,Obesity class III,3.5,90,No
+Male,never,67,No,Yes,Overweight,3.5,126,No
+Male,never,47,No,No,Obesity class I,6.1,200,Yes
+Female,never,66,No,No,Overweight,6,126,No
+Female,current,33,No,No,Overweight,6.5,145,Yes
+Female,ever,29,No,No,Normal,3.5,160,Yes
+Female,current,29,No,No,Obesity class I,5.7,100,No
+Male,never,33,No,No,Overweight,6.5,145,Yes
+Female,never,61,No,No,Overweight,4.5,90,No
+Male,never,35,No,No,Overweight,5,126,No
+Male,current,25,No,No,Overweight,5,80,No
+Male,current,36,No,No,Overweight,8.2,159,Yes
+Male,never,49,No,No,Overweight,3.5,158,Yes
+Female,never,53,No,No,Normal,5,160,Yes
+Male,former,43,Yes,No,Obesity class II,9,300,Yes
+Male,never,42,No,No,Overweight,6.5,126,No
+Male,never,69,No,No,Obesity class I,5.8,145,Yes
+Female,never,54,No,No,Normal,3.5,159,Yes
+Male,never,44,No,No,Overweight,5.7,100,No
+Female,former,80,Yes,No,Overweight,5.7,145,Yes
+Female,former,56,No,No,Obesity class III,6.5,140,Yes
+Female,former,66,No,Yes,Obesity class III,8.2,126,Yes
+Female,never,49,No,No,Normal,6.6,140,Yes
+Female,never,55,No,No,Normal,4.8,80,No
+Male,never,47,No,No,Obesity class I,7.5,130,Yes
+Male,former,70,No,No,Obesity class I,6.2,90,No
+Female,former,32,No,No,Underweight,4.8,200,Yes
+Female,ever,70,No,No,Overweight,5.7,130,Yes
+Male,never,42,Yes,No,Overweight,6.6,80,Yes
+Male,never,58,No,No,Overweight,3.5,140,Yes
+Female,never,51,Yes,No,Obesity class III,8.2,300,Yes
+Female,never,37,No,No,Normal,5,155,Yes
+Female,never,41,No,No,Overweight,6.1,155,Yes
+Male,former,65,No,No,Overweight,3.5,155,Yes
+Female,former,54,Yes,No,Obesity class III,4,155,Yes
+Female,never,26,No,No,Overweight,5,159,Yes
+Male,former,51,No,No,Obesity class I,6.6,155,Yes
+Female,never,53,Yes,No,Overweight,5.7,90,No
+Female,current,42,No,No,Obesity class I,3.5,80,No
+Female,never,80,No,Yes,Normal,5.7,200,Yes
+Male,former,53,No,No,Overweight,3.5,140,Yes
+Female,never,58,Yes,No,Obesity class II,6.2,140,Yes
+Female,current,58,No,Yes,Obesity class II,8.8,160,Yes
+Male,current,51,No,No,Overweight,4.5,140,Yes
+Male,former,44,No,No,Overweight,6,80,No
+Male,former,39,No,No,Normal,5.7,200,Yes
+Male,never,38,No,No,Normal,6,145,Yes
+Male,never,44,No,No,Overweight,5.7,90,No
+Male,former,80,No,No,Overweight,5,100,No
+Female,former,73,No,No,Normal,5.8,140,Yes
+Male,never,61,Yes,No,Obesity class I,6,100,No
+Female,never,53,No,No,Overweight,4.5,160,Yes
+Female,never,76,No,No,Obesity class I,5.7,155,Yes
+Female,never,60,No,No,Overweight,5.7,140,Yes
+Female,never,62,No,No,Overweight,6.1,160,Yes
+Female,current,55,Yes,Yes,Obesity class II,6.5,126,Yes
+Female,never,51,No,No,Normal,5,126,No
+Male,never,32,No,No,Obesity class I,5.8,126,No
+Male,never,44,No,No,Overweight,6.5,160,Yes
+Female,former,73,No,No,Obesity class I,6.1,130,Yes
+Male,never,53,Yes,No,Obesity class I,6.1,220,Yes
+Female,never,28,No,No,Overweight,3.5,90,No
+Male,current,51,No,No,Overweight,4.8,80,No
+Female,former,73,Yes,No,Obesity class II,6.8,140,Yes
+Male,never,29,No,No,Overweight,6,200,Yes
+Male,never,61,No,No,Overweight,5.7,80,No
+Female,never,49,No,No,Overweight,4,126,No
+Female,current,44,No,No,Overweight,5.8,100,No
+Female,never,55,No,No,Obesity class II,9,159,Yes
+Female,never,46,No,No,Overweight,6,145,Yes
+Male,current,55,No,No,Overweight,4,126,No
+Female,never,74,No,No,Overweight,6.5,155,Yes
+Male,former,50,Yes,No,Overweight,6.1,260,Yes
+Female,never,44,No,No,Obesity class I,6.6,159,Yes
+Female,never,60,No,No,Normal,6.1,159,Yes
+Female,former,51,No,No,Obesity class I,6.6,160,Yes
+Female,former,60,No,No,Obesity class III,6.1,90,No
+Male,never,29,No,No,Normal,6.2,90,No
+Male,never,59,No,No,Normal,5.8,200,Yes
+Female,former,55,No,No,Overweight,6.1,260,Yes
+Female,never,27,No,No,Normal,6.5,159,Yes
+Male,former,59,No,Yes,Obesity class I,5.7,80,No
+Female,never,80,No,No,Underweight,3.5,80,No
+Female,never,45,No,No,Obesity class II,6,130,Yes
+Female,never,66,Yes,Yes,Overweight,4.5,160,Yes
+Female,never,43,No,No,Normal,3.5,200,Yes
+Male,current,28,No,No,Normal,5.7,160,Yes
+Female,ever,57,No,No,Obesity class I,6,90,No
+Female,never,59,No,No,Overweight,6.6,90,Yes
+Female,never,33,No,No,Obesity class I,5.8,126,No
+Female,never,39,No,No,Normal,4.8,155,Yes
+Female,current,63,No,No,Overweight,5.7,140,Yes
+Male,never,26,No,No,Overweight,5.7,85,No
+Female,never,75,No,Yes,Obesity class II,6.8,200,Yes
+Male,former,71,No,No,Normal,3.5,145,Yes
+Female,former,64,No,No,Overweight,6.5,155,Yes
+Female,never,47,No,No,Overweight,6.2,90,No
+Female,never,43,Yes,No,Obesity class III,5,160,Yes
+Female,never,43,No,No,Normal,4.5,90,No
+Female,never,37,No,No,Overweight,5.8,130,Yes
+Female,never,50,No,No,Normal,5,126,No
+Male,never,27,No,No,Overweight,4,140,Yes
+Female,never,40,No,No,Overweight,6,140,Yes
+Female,never,40,No,No,Obesity class I,5.7,158,Yes
+Male,current,30,No,No,Overweight,5.7,80,No
+Female,never,80,No,No,Obesity class I,5.7,160,Yes
+Male,current,80,No,Yes,Overweight,4.8,90,No
+Male,former,58,No,Yes,Overweight,6.1,155,Yes
+Male,former,61,No,No,Normal,6.5,159,Yes
+Male,never,34,No,No,Normal,4,80,No
+Female,never,35,No,No,Overweight,4.8,130,Yes
+Male,ever,26,No,No,Overweight,5.7,140,Yes
+Male,current,52,Yes,No,Overweight,4.8,130,Yes
+Female,current,42,No,No,Overweight,6.6,160,Yes
+Female,never,43,No,No,Normal,5.8,160,Yes
+Female,never,33,No,No,Overweight,6.5,158,Yes
+Female,never,25,No,No,Obesity class I,4,159,Yes
+Male,never,51,No,No,Overweight,6.5,140,Yes
+Female,never,43,No,No,Normal,5,85,No
+Male,never,39,No,No,Overweight,6.6,145,Yes
+Female,never,55,No,No,Normal,6.5,140,Yes
+Female,former,77,No,No,Overweight,6.1,126,No
+Male,never,52,No,No,Overweight,3.5,158,Yes
+Female,current,30,No,No,Normal,5.8,126,No
+Male,never,64,No,No,Overweight,6.6,159,Yes
+Male,never,64,No,No,Overweight,4.8,85,No
+Male,former,76,No,No,Overweight,5.8,260,Yes
+Male,never,80,Yes,No,Normal,6.1,90,No
+Male,former,56,Yes,No,Obesity class I,6,240,Yes
+Male,never,56,No,No,Obesity class I,5.8,130,Yes
+Female,former,62,No,No,Obesity class I,5,158,Yes
+Male,never,43,No,No,Obesity class III,5.7,145,Yes
+Female,never,80,No,No,Overweight,4.5,140,Yes
+Male,former,25,No,No,Overweight,4.5,158,Yes
+Male,never,62,No,No,Obesity class I,3.5,159,Yes
+Female,never,31,No,No,Overweight,4.5,160,Yes
+Male,never,80,Yes,Yes,Overweight,7,240,Yes
+Female,never,80,No,No,Overweight,8.8,240,Yes
+Male,never,47,No,No,Obesity class I,4.5,126,No
+Female,never,67,No,No,Obesity class III,6,158,Yes
+Female,current,57,No,No,Overweight,5.8,100,No
+Male,never,80,No,No,Overweight,5,200,Yes
+Female,never,80,No,No,Underweight,6.5,85,No
+Female,former,34,No,No,Overweight,5.8,200,Yes
+Female,current,44,No,No,Overweight,6.1,155,Yes
+Male,ever,30,No,No,Overweight,3.5,159,Yes
+Male,never,53,No,No,Overweight,6.6,90,Yes
+Female,never,80,No,No,Normal,6.5,90,No
+Female,never,51,No,No,Overweight,6.5,85,No
+Male,current,80,No,No,Normal,6.8,159,Yes
+Female,never,47,No,No,Obesity class II,8.8,130,Yes
+Female,never,56,No,No,Obesity class I,5.7,130,Yes
+Male,never,30,No,No,Overweight,3.5,155,Yes
+Female,never,39,No,No,Obesity class I,4.5,90,No
+Female,current,32,No,No,Obesity class III,3.5,100,No
+Female,never,54,No,No,Overweight,4.5,80,No
+Male,former,37,No,No,Overweight,4.8,159,Yes
+Female,former,57,No,No,Overweight,4.5,159,Yes
+Female,former,37,Yes,No,Obesity class III,3.5,158,Yes
+Female,never,66,No,No,Obesity class II,4,145,Yes
+Female,never,36,No,No,Overweight,4.5,80,No
+Male,former,42,No,No,Overweight,4.8,200,Yes
+Male,former,58,No,Yes,Overweight,6,100,No
+Male,never,45,Yes,Yes,Overweight,6,90,No
+Male,current,67,No,No,Overweight,4,145,Yes
+Female,former,54,No,No,Obesity class I,4.8,200,Yes
+Female,former,45,No,No,Normal,5,90,No
+Male,former,80,No,Yes,Overweight,4.5,159,Yes
+Female,former,59,No,No,Overweight,3.5,145,Yes
+Male,never,77,Yes,No,Obesity class I,5.8,85,No
+Female,never,36,No,No,Overweight,6.5,80,No
+Male,never,46,No,No,Overweight,6.6,155,Yes
+Male,never,46,No,No,Obesity class III,7,200,Yes
+Male,never,27,No,No,Overweight,6,145,Yes
+Female,never,73,No,No,Overweight,4.5,126,No
+Female,never,69,No,No,Normal,4.5,160,Yes
+Male,former,80,No,Yes,Overweight,4.5,130,Yes
+Female,former,80,No,No,Normal,5.8,145,Yes
+Male,former,59,No,No,Obesity class I,6.5,126,No
+Female,never,71,No,No,Overweight,4.5,200,Yes
+Female,never,29,No,No,Normal,3.5,200,Yes
+Female,former,44,No,No,Obesity class I,6.1,159,Yes
+Male,never,27,No,No,Overweight,4.5,130,Yes
+Female,current,27,No,No,Normal,4.5,155,Yes
+Male,former,58,Yes,No,Overweight,4.8,100,No
+Female,never,56,No,No,Obesity class I,6.5,200,Yes
+Female,former,57,No,No,Obesity class II,4.8,145,Yes
+Male,current,78,Yes,No,Overweight,5.8,126,No
+Female,never,42,No,No,Obesity class III,5.7,158,Yes
+Male,never,58,No,No,Obesity class II,6.2,126,No
+Female,never,30,No,No,Obesity class I,6.5,155,Yes
+Female,never,75,No,No,Overweight,5,159,Yes
+Male,current,59,No,No,Normal,4,85,No
+Male,current,49,No,No,Overweight,6.2,100,No
+Male,never,66,No,No,Overweight,4.5,160,Yes
+Male,former,63,No,No,Overweight,6.6,85,Yes
+Male,former,49,No,No,Overweight,6.1,160,Yes
+Female,ever,54,No,No,Obesity class I,6,145,Yes
+Male,ever,66,No,Yes,Normal,6.2,155,Yes
+Female,former,62,No,No,Normal,6.2,90,No
+Female,never,25,No,No,Overweight,5.7,159,Yes
+Female,current,53,No,No,Overweight,4,90,No
+Female,former,50,No,No,Overweight,5.7,126,No
+Male,never,80,No,Yes,Obesity class I,6.6,158,Yes
+Female,never,46,No,No,Obesity class III,5.8,140,Yes
+Male,former,76,No,Yes,Normal,5.7,126,No
+Female,never,64,Yes,No,Obesity class III,6,155,Yes
+Male,never,64,Yes,No,Obesity class I,6.2,160,Yes
+Female,former,35,No,No,Obesity class I,4.5,159,Yes
+Male,current,65,No,No,Obesity class I,5.8,280,Yes
+Female,former,53,No,No,Overweight,6.6,145,Yes
+Male,never,52,No,No,Obesity class I,6.5,126,No
+Male,former,64,No,Yes,Obesity class I,5,145,Yes
+Male,former,35,No,No,Obesity class I,5,160,Yes
+Female,ever,44,No,No,Obesity class III,6.1,85,No
+Female,never,46,No,No,Overweight,4.5,126,No
+Male,never,55,No,No,Obesity class I,6.1,160,Yes
+Female,never,58,No,No,Normal,3.5,140,Yes
+Male,never,37,No,No,Obesity class I,5,145,Yes
+Male,current,45,No,No,Obesity class I,6,126,No
+Male,former,77,Yes,No,Normal,6.8,155,Yes
+Male,current,63,No,No,Overweight,6,155,Yes
+Female,never,43,No,No,Obesity class II,6.6,90,Yes
+Female,current,77,Yes,No,Overweight,6.1,140,Yes
+Female,former,60,No,No,Obesity class III,5.8,160,Yes
+Male,current,56,No,No,Overweight,4.5,100,No
+Female,former,58,No,No,Obesity class I,6,80,No
+Male,never,46,No,No,Overweight,6,155,Yes
+Male,never,70,No,Yes,Overweight,6.6,280,Yes
+Female,never,25,No,No,Overweight,6.2,90,No
+Female,current,48,No,No,Obesity class I,3.5,100,No
+Female,ever,30,No,No,Obesity class III,4.8,140,Yes
+Female,never,49,No,No,Overweight,3.5,200,Yes
+Male,former,62,No,No,Overweight,6,200,Yes
+Male,former,78,No,Yes,Obesity class I,6.6,126,Yes
+Female,never,25,No,No,Obesity class I,3.5,130,Yes
+Female,former,65,No,No,Normal,4.8,90,No
+Female,never,62,Yes,No,Obesity class I,4.5,130,Yes
+Female,never,54,No,No,Obesity class I,6.5,85,No
+Female,never,43,No,No,Obesity class III,4,126,No
+Female,current,45,No,No,Normal,6.6,80,Yes
+Female,never,42,No,No,Obesity class I,5,126,No
+Male,current,40,No,No,Overweight,5.8,155,Yes
+Female,never,58,No,No,Obesity class II,5,145,Yes
+Male,never,40,No,No,Obesity class III,4.5,200,Yes
+Male,former,54,No,No,Obesity class III,4.8,158,Yes
+Female,never,74,Yes,No,Obesity class II,7.5,260,Yes
+Female,never,38,No,No,Normal,3.5,140,Yes
+Female,ever,62,No,No,Obesity class I,6.5,140,Yes
+Female,never,71,No,No,Overweight,6.2,145,Yes
+Male,never,44,No,No,Overweight,6.2,159,Yes
+Male,former,80,No,No,Normal,4,100,No
+Female,former,38,No,No,Overweight,5.7,140,Yes
+Female,former,56,No,No,Overweight,5.8,145,Yes
+Male,current,43,Yes,No,Normal,4,85,No
+Female,never,79,No,No,Overweight,6,158,Yes
+Female,current,49,No,No,Obesity class II,4,85,No
+Female,former,47,No,No,Obesity class I,6.2,145,Yes
+Female,former,71,Yes,No,Overweight,6.2,85,No
+Female,never,55,No,No,Normal,5.7,160,Yes
+Female,never,47,Yes,No,Obesity class I,5.7,145,Yes
+Female,former,55,No,No,Normal,6.2,126,No
+Female,current,31,No,No,Obesity class I,4.5,158,Yes
+Male,former,60,No,Yes,Overweight,4,126,No
+Female,never,56,No,No,Obesity class II,4.8,90,No
+Female,current,72,No,Yes,Overweight,6.2,160,Yes
+Male,former,72,No,No,Obesity class I,5,155,Yes
+Female,never,57,No,No,Overweight,4,155,Yes
+Male,never,69,No,No,Obesity class I,4.8,126,No
+Male,never,43,No,No,Overweight,6.5,130,Yes
+Male,never,39,No,No,Obesity class I,4,140,Yes
+Female,ever,42,No,No,Obesity class II,5,140,Yes
+Male,former,75,Yes,No,Obesity class I,4.8,158,Yes
+Male,former,75,No,No,Normal,4.5,130,Yes
+Female,current,50,No,No,Obesity class I,6.6,159,Yes
+Male,current,66,Yes,No,Normal,7,260,Yes
+Female,former,76,No,No,Overweight,4,159,Yes
+Male,never,45,No,No,Overweight,6.6,200,Yes
+Male,former,70,No,No,Normal,6.5,200,Yes
+Male,former,51,No,No,Overweight,4,158,Yes
+Male,former,45,No,No,Overweight,5,80,No
+Female,never,80,No,Yes,Obesity class II,6.1,100,No
+Male,current,27,No,No,Normal,6,158,Yes
+Male,current,40,No,No,Obesity class I,5,126,No
+Male,never,36,No,No,Obesity class I,6.5,158,Yes
+Male,former,71,No,No,Obesity class I,4,200,Yes
+Male,never,41,No,No,Obesity class II,5,130,Yes
+Female,never,50,No,No,Overweight,4,85,No
+Female,former,80,No,No,Overweight,6.1,145,Yes
+Male,former,47,No,No,Overweight,6.1,280,Yes
+Female,former,33,No,No,Obesity class III,6.2,200,Yes
+Male,former,60,No,No,Overweight,6.6,126,Yes
+Female,former,34,No,No,Overweight,5.8,80,No
+Male,never,52,No,No,Overweight,6.2,90,No
+Female,never,69,Yes,Yes,Normal,6.2,130,Yes
+Female,never,54,No,No,Overweight,6,155,Yes
+Male,never,25,No,No,Normal,3.5,200,Yes
+Female,never,35,No,No,Normal,6.6,158,Yes
+Female,never,62,No,No,Overweight,5.8,158,Yes
+Male,never,70,No,No,Overweight,6,140,Yes
+Female,current,44,No,No,Overweight,6.2,140,Yes
+Female,never,32,No,No,Overweight,3.5,140,Yes
+Female,current,30,Yes,No,Obesity class I,5.7,200,Yes
+Male,former,58,No,No,Obesity class I,6.1,200,Yes
+Female,former,76,No,No,Overweight,6.2,160,Yes
+Female,former,51,Yes,Yes,Overweight,6.6,90,Yes
+Male,never,56,No,No,Overweight,6,159,Yes
+Female,current,30,No,No,Normal,6,155,Yes
+Female,never,46,No,No,Overweight,6.6,85,Yes
+Female,current,57,Yes,No,Overweight,3.5,130,Yes
+Female,never,46,No,No,Obesity class III,5.7,126,No
+Female,never,32,No,No,Overweight,4.5,200,Yes
+Female,never,34,No,No,Normal,5,126,No
+Female,never,62,No,No,Obesity class I,6.1,300,Yes
+Male,current,63,No,No,Overweight,3.5,160,Yes
+Female,former,43,No,No,Obesity class III,5.8,159,Yes
+Male,former,61,No,No,Overweight,6.6,155,Yes
+Female,current,62,No,No,Normal,6,159,Yes
+Female,former,66,No,No,Overweight,6.5,145,Yes
+Male,former,59,No,No,Normal,4.8,200,Yes
+Female,never,66,No,Yes,Obesity class I,6.8,126,Yes
+Female,never,52,Yes,No,Obesity class II,4.8,159,Yes
+Male,current,44,No,No,Normal,5.8,80,No
+Female,current,27,No,No,Obesity class II,4.8,155,Yes
+Female,never,56,No,No,Obesity class II,6,90,No
+Female,current,36,No,No,Normal,6.1,140,Yes
+Female,former,33,No,No,Obesity class I,5.7,80,No
+Male,never,43,No,No,Normal,5,200,Yes
+Male,ever,51,No,No,Normal,6.5,140,Yes
+Female,never,66,No,No,Obesity class II,3.5,158,Yes
+Female,never,80,No,No,Obesity class II,5.7,130,Yes
+Female,former,66,No,No,Obesity class III,5.7,200,Yes
+Male,current,51,Yes,Yes,Normal,9,155,Yes
+Male,never,49,No,No,Normal,4.8,85,No
+Male,never,48,No,No,Obesity class III,7.5,240,Yes
+Female,never,50,No,No,Obesity class III,6,159,Yes
+Female,current,38,No,No,Overweight,6.1,85,No
+Female,current,54,No,No,Overweight,4.8,158,Yes
+Male,never,80,No,No,Normal,5,158,Yes
+Female,never,65,No,No,Overweight,6,159,Yes
+Male,former,55,No,No,Overweight,6.6,140,Yes
+Male,ever,72,Yes,Yes,Overweight,6,159,Yes
+Female,former,71,No,No,Obesity class I,5.7,85,No
+Male,former,61,No,No,Overweight,4,140,Yes
+Male,current,61,Yes,No,Overweight,5.7,145,Yes
+Male,current,37,No,No,Obesity class III,4.8,80,No
+Male,never,54,No,No,Overweight,6.2,158,Yes
+Female,never,47,Yes,No,Obesity class III,5.7,240,Yes
+Male,former,47,No,No,Overweight,4.8,160,Yes
+Female,ever,51,Yes,No,Obesity class II,6.1,126,No
+Female,never,40,No,No,Normal,4,85,No
+Female,never,59,No,No,Overweight,6.6,140,Yes
+Female,former,78,No,No,Obesity class I,5.7,130,Yes
+Female,never,33,No,No,Normal,5,145,Yes
+Female,current,80,No,No,Overweight,3.5,80,No
+Male,former,77,No,No,Overweight,4.8,158,Yes
+Male,never,55,No,No,Overweight,3.5,145,Yes
+Female,never,65,No,No,Obesity class III,4.8,155,Yes
+Female,current,47,No,No,Obesity class III,6,126,Yes
+Female,never,52,No,Yes,Obesity class I,6.6,90,Yes
+Female,current,45,No,No,Normal,6.5,130,Yes
+Female,former,41,No,No,Normal,6.5,158,Yes
+Male,former,59,No,No,Obesity class I,5.7,160,Yes
+Male,ever,58,No,Yes,Obesity class II,5.8,220,Yes
+Female,never,80,No,No,Overweight,7,300,Yes
+Female,never,63,No,No,Overweight,6.6,100,Yes
+Male,never,59,No,No,Normal,7.5,280,Yes
+Female,never,35,No,No,Overweight,6.2,159,Yes
+Female,never,52,No,No,Normal,4,155,Yes
+Male,never,37,No,No,Normal,4.8,100,No
+Female,never,36,No,No,Obesity class I,6.2,155,Yes
+Female,never,56,No,No,Overweight,5.7,126,No
+Female,never,40,No,No,Obesity class I,4,80,No
+Female,never,53,No,No,Overweight,4.5,126,No
+Female,never,48,No,No,Overweight,4.5,145,Yes
+Female,never,80,Yes,No,Overweight,5.7,160,Yes
+Male,never,25,No,No,Normal,4.5,80,No
+Female,former,42,No,No,Normal,5.8,80,No
+Male,current,70,No,Yes,Normal,4.8,160,Yes
+Female,former,69,Yes,No,Obesity class I,6.6,126,Yes
+Male,never,76,No,No,Overweight,3.5,80,No
+Female,never,80,No,No,Overweight,6,80,No
+Male,current,33,No,No,Overweight,6,159,Yes
+Female,current,38,No,No,Overweight,6.2,130,Yes
+Female,never,65,No,No,Overweight,6.6,130,Yes
+Male,ever,64,Yes,Yes,Obesity class II,4,155,Yes
+Male,never,78,No,No,Overweight,6.6,126,Yes
+Female,never,63,No,No,Obesity class II,6.6,200,Yes
+Male,former,52,No,No,Obesity class III,6,160,Yes
+Male,never,28,No,No,Normal,5,100,No
+Male,former,41,No,No,Overweight,6,159,Yes
+Female,former,65,No,No,Overweight,4,100,No
+Female,never,42,No,No,Normal,6.1,80,No
+Female,never,29,No,No,Obesity class III,5.7,145,Yes
+Male,current,36,No,No,Overweight,5.7,145,Yes
+Male,former,80,No,No,Normal,6.5,100,No
+Female,never,36,No,No,Overweight,6.5,200,Yes
+Female,former,50,No,No,Normal,6.1,85,No
+Female,current,57,No,No,Obesity class I,4,145,Yes
+Male,never,80,No,No,Overweight,6.2,85,No
+Female,never,25,No,No,Overweight,4.5,100,No
+Female,ever,63,No,No,Obesity class I,6.1,85,No
+Female,never,45,No,No,Normal,6.5,280,Yes
+Female,former,62,Yes,Yes,Overweight,6.2,159,Yes
+Female,former,80,No,No,Obesity class I,5.8,145,Yes
+Female,former,40,No,No,Obesity class III,8.8,300,Yes
+Male,never,58,No,No,Overweight,4.8,126,No
+Male,never,62,No,No,Overweight,6.6,159,Yes
+Male,current,27,No,No,Overweight,6.6,130,Yes
+Male,current,46,No,No,Normal,6.6,90,Yes
+Male,former,80,No,No,Obesity class I,3.5,145,Yes
+Female,never,54,No,No,Obesity class III,6.5,155,Yes
+Male,former,71,Yes,Yes,Overweight,4.5,126,No
+Male,never,58,No,No,Obesity class I,8.8,126,Yes
+Female,never,57,Yes,No,Obesity class II,5.8,240,Yes
+Male,current,39,No,No,Overweight,6.5,160,Yes
+Female,never,42,No,No,Obesity class II,4.8,200,Yes
+Female,never,28,No,No,Obesity class I,6,100,No
+Female,never,46,No,No,Overweight,5,145,Yes
+Female,never,44,No,No,Obesity class III,6,155,Yes
+Female,current,43,No,No,Obesity class II,6.1,240,Yes
+Male,never,47,No,No,Overweight,6.5,130,Yes
+Female,former,55,No,No,Overweight,3.5,80,No
+Female,never,71,No,No,Obesity class I,4.8,80,No
+Female,former,51,No,No,Obesity class I,4.8,155,Yes
+Female,former,58,Yes,No,Overweight,6.6,200,Yes
+Male,former,37,No,No,Obesity class I,5.8,145,Yes
+Male,never,60,No,No,Obesity class II,5.7,158,Yes
+Male,ever,49,No,No,Obesity class II,5.7,85,No
+Male,former,50,No,No,Obesity class I,5,90,No
+Female,never,49,No,No,Normal,6.5,159,Yes
+Male,never,62,No,No,Overweight,6.2,155,Yes
+Female,never,48,No,No,Obesity class II,5,158,Yes
+Female,former,58,No,No,Normal,5.8,126,No
+Female,current,66,No,No,Overweight,6.5,140,Yes
+Female,current,76,Yes,No,Overweight,5.8,145,Yes
+Male,ever,55,No,Yes,Overweight,4.5,126,No
+Male,former,74,Yes,No,Overweight,6,145,Yes
+Male,former,80,No,No,Normal,6.2,100,No
+Female,current,63,Yes,No,Overweight,3.5,155,Yes
+Female,never,35,No,No,Normal,6.2,160,Yes
+Male,former,40,No,No,Obesity class I,6.6,126,Yes
+Female,former,29,No,No,Overweight,5.8,200,Yes
+Female,never,58,No,No,Normal,3.5,158,Yes
+Female,never,36,No,No,Overweight,6,158,Yes
+Female,never,28,No,No,Normal,5.8,145,Yes
+Male,current,53,No,No,Overweight,5,145,Yes
+Female,never,40,No,No,Obesity class III,4.5,126,No
+Female,never,44,No,No,Overweight,6.1,85,No
+Female,former,70,No,No,Overweight,3.5,158,Yes
+Male,former,80,No,No,Obesity class I,5,200,Yes
+Male,never,45,No,No,Normal,4,85,No
+Female,former,50,No,No,Overweight,6.5,200,Yes
+Male,current,30,No,No,Obesity class II,5.8,85,No
+Female,current,51,No,No,Normal,3.5,145,Yes
+Female,never,27,No,No,Overweight,6.1,126,No
+Male,never,80,Yes,No,Obesity class II,5.8,159,Yes
+Female,ever,61,No,No,Normal,6,126,No
+Male,former,42,No,No,Overweight,6.2,158,Yes
+Female,former,66,No,No,Normal,6.2,100,No
+Female,current,65,No,Yes,Overweight,5.7,300,Yes
+Female,current,48,No,No,Overweight,4,126,No
+Female,never,25,No,No,Obesity class I,5.8,200,Yes
+Male,current,38,No,No,Overweight,6.1,240,Yes
+Female,never,53,Yes,No,Normal,6.5,80,No
+Female,ever,46,No,No,Obesity class II,4.5,140,Yes
+Female,never,49,No,No,Normal,6,145,Yes
+Female,former,58,No,Yes,Overweight,4,145,Yes
+Female,never,28,No,No,Overweight,6.2,158,Yes
+Male,former,80,No,No,Overweight,4,159,Yes
+Female,never,61,No,No,Overweight,6.6,85,Yes
+Male,never,43,No,No,Obesity class I,6.6,100,Yes
+Female,never,31,No,No,Normal,4.5,200,Yes
+Male,never,54,No,No,Obesity class I,6.6,145,Yes
+Female,former,28,No,No,Overweight,5.7,145,Yes
+Male,ever,42,No,No,Overweight,5.7,155,Yes
+Female,never,46,No,No,Overweight,5.7,160,Yes
+Male,former,61,No,No,Obesity class II,5,90,No
+Female,never,74,Yes,No,Obesity class I,6.8,200,Yes
+Male,current,42,No,No,Normal,5,90,No
+Male,never,71,No,No,Overweight,8.2,200,Yes
+Female,ever,78,No,No,Normal,5,159,Yes
+Female,never,30,No,No,Overweight,6.6,90,Yes
+Male,never,57,No,No,Overweight,4.5,85,No
+Male,former,71,Yes,No,Overweight,4.8,160,Yes
+Female,former,66,Yes,No,Overweight,5.7,100,No
+Female,former,66,No,No,Obesity class I,6.6,80,Yes
+Female,current,63,No,No,Overweight,6.1,159,Yes
+Female,never,66,Yes,No,Obesity class I,5,160,Yes
+Female,never,31,No,No,Normal,6.5,155,Yes
+Female,never,31,No,No,Obesity class I,5.7,90,No
+Female,current,52,No,No,Obesity class III,6.5,200,Yes
+Male,never,75,No,No,Normal,5.8,158,Yes
+Male,current,57,Yes,No,Obesity class I,6.1,160,Yes
+Male,never,50,No,No,Normal,5.7,85,No
+Female,never,54,Yes,No,Obesity class III,6.8,300,Yes
+Male,never,61,No,No,Overweight,6.5,100,No
+Female,never,54,No,No,Obesity class I,3.5,90,No
+Male,current,35,No,No,Overweight,5,126,No
+Female,current,33,No,No,Obesity class II,6.2,126,No
+Male,never,44,No,No,Obesity class I,6.2,90,No
+Female,never,80,Yes,No,Underweight,6.6,85,Yes
+Male,current,43,No,No,Overweight,6.6,140,Yes
+Female,ever,35,No,No,Obesity class III,5.8,160,Yes
+Male,former,80,Yes,Yes,Normal,5.7,155,Yes
+Female,ever,34,No,No,Normal,6.5,158,Yes
+Male,never,41,Yes,No,Overweight,5.7,145,Yes
+Male,never,28,No,No,Overweight,4,140,Yes
+Female,never,38,No,No,Overweight,6.1,90,No
+Male,never,48,No,No,Normal,4,145,Yes
+Female,current,25,No,No,Overweight,6.2,158,Yes
+Male,former,35,No,No,Overweight,6.1,85,No
+Male,ever,65,No,Yes,Overweight,6.2,145,Yes
+Female,former,55,No,No,Obesity class III,6.5,159,Yes
+Male,never,42,No,No,Obesity class I,8.2,140,Yes
+Female,never,45,No,No,Normal,5.7,130,Yes
+Female,never,43,No,No,Normal,5,100,No
+Female,never,74,No,No,Normal,6.6,200,Yes
+Male,ever,66,No,Yes,Overweight,5.8,85,No
+Female,never,57,No,No,Overweight,6.1,240,Yes
+Male,never,43,No,No,Obesity class I,5.8,90,No
+Female,never,37,No,No,Overweight,6.5,100,No
+Male,ever,80,No,No,Obesity class I,5.7,130,Yes
+Female,never,25,No,No,Obesity class II,5,159,Yes
+Male,ever,38,No,No,Overweight,6.2,80,No
+Male,never,31,Yes,No,Overweight,4,145,Yes
+Female,never,68,No,No,Overweight,3.5,130,Yes
+Male,never,47,Yes,No,Obesity class II,5,130,Yes
+Male,never,69,No,No,Overweight,4,200,Yes
+Female,former,31,No,No,Obesity class II,6.1,155,Yes
+Male,former,80,No,No,Overweight,5.8,80,No
+Female,former,57,No,No,Obesity class III,4.8,80,No
+Female,never,41,Yes,No,Obesity class II,6.5,80,No
+Male,current,43,No,No,Overweight,6.2,159,Yes
+Male,former,54,No,No,Obesity class II,6.6,158,Yes
+Male,never,62,No,No,Obesity class I,6.6,200,Yes
+Male,never,60,No,No,Obesity class I,6.2,155,Yes
+Female,former,57,No,No,Obesity class I,4,130,Yes
+Female,never,36,No,No,Obesity class I,5.7,160,Yes
+Female,former,76,No,No,Obesity class II,6.2,160,Yes
+Male,current,53,No,No,Overweight,5,158,Yes
+Male,never,74,Yes,Yes,Overweight,5.7,160,Yes
+Female,never,77,No,No,Overweight,6.6,200,Yes
+Female,never,80,No,No,Normal,6.5,145,Yes
+Female,former,59,No,No,Obesity class III,5.7,155,Yes
+Male,current,48,No,No,Overweight,4,140,Yes
+Female,never,43,No,No,Obesity class I,5.8,130,Yes
+Male,never,31,No,No,Obesity class III,4.5,140,Yes
+Female,never,52,No,No,Overweight,6.6,159,Yes
+Female,current,41,No,No,Obesity class III,5.7,90,No
+Male,never,62,Yes,No,Obesity class I,6.8,160,Yes
+Male,never,61,Yes,No,Obesity class III,7.5,300,Yes
+Female,never,54,No,No,Obesity class II,5,158,Yes
+Female,never,66,No,No,Overweight,4.5,145,Yes
+Female,former,50,No,No,Obesity class III,4.8,130,Yes
+Male,never,52,No,No,Obesity class II,4.5,126,No
+Female,never,80,No,Yes,Overweight,6,85,No
+Female,never,48,No,No,Overweight,5,160,Yes
+Female,never,46,No,No,Obesity class I,6.5,200,Yes
+Female,former,53,No,No,Overweight,6.1,140,Yes
+Male,former,78,No,No,Normal,5.7,85,No
+Male,former,36,No,No,Obesity class II,4.8,100,No
+Female,current,78,No,Yes,Normal,4.5,126,No
+Female,current,37,No,No,Obesity class III,4,158,Yes
+Male,current,57,No,No,Overweight,4.5,145,Yes
+Female,never,80,Yes,No,Obesity class I,6.5,85,No
+Male,former,33,No,No,Overweight,3.5,145,Yes
+Male,current,74,No,No,Obesity class I,5.7,80,No
+Female,current,80,No,No,Underweight,4.5,130,Yes
+Female,former,75,Yes,No,Obesity class I,5.7,159,Yes
+Male,never,80,No,No,Overweight,6.6,85,Yes
+Female,never,79,Yes,No,Overweight,6.8,155,Yes
+Male,never,58,No,No,Overweight,6,140,Yes
+Female,never,56,No,No,Obesity class I,5.7,126,No
+Female,never,53,No,No,Normal,6.6,130,Yes
+Female,former,80,No,No,Overweight,6.5,130,Yes
+Female,never,66,Yes,No,Overweight,5.8,126,No
+Male,never,60,No,No,Overweight,6.5,300,Yes
+Male,never,47,No,No,Overweight,4,200,Yes
+Female,former,75,No,Yes,Normal,6,140,Yes
+Female,never,62,No,No,Overweight,6,126,Yes
+Female,former,48,No,No,Obesity class III,6.1,126,No
+Female,never,30,No,No,Normal,6.5,145,Yes
+Female,never,38,No,No,Overweight,6.6,85,Yes
+Female,former,41,No,No,Normal,6.6,155,Yes
+Male,current,49,No,No,Obesity class I,6.5,200,Yes
+Male,former,55,No,No,Overweight,4.5,90,No
+Male,former,64,No,No,Obesity class I,4.5,155,Yes
+Male,current,60,No,No,Obesity class III,8.2,300,Yes
+Female,never,43,No,No,Overweight,5,159,Yes
+Male,never,62,No,No,Overweight,5.8,100,No
+Male,current,47,No,No,Overweight,5,160,Yes
+Female,former,44,No,No,Overweight,4,155,Yes
+Female,former,67,Yes,No,Normal,8.8,140,Yes
+Female,never,52,Yes,No,Obesity class I,4,200,Yes
+Female,never,27,No,No,Obesity class II,6.5,90,No
+Female,never,56,No,No,Underweight,6,126,No
+Male,current,29,No,No,Overweight,5.8,155,Yes
+Female,never,80,No,No,Normal,5.8,159,Yes
+Male,never,40,No,No,Overweight,6.1,100,No
+Female,ever,40,No,No,Overweight,5,80,No
+Male,current,73,No,No,Normal,4.8,126,No
+Female,former,58,No,No,Normal,5,159,Yes
+Male,never,61,No,No,Overweight,4.5,126,No
+Female,never,80,No,No,Overweight,6,85,No
+Male,current,33,No,No,Obesity class II,5,130,Yes
+Female,current,32,No,No,Normal,6.5,85,No
+Male,never,80,No,No,Normal,4.8,145,Yes
+Male,former,71,No,No,Normal,4,158,Yes
+Female,never,29,No,No,Overweight,4.8,155,Yes
+Female,ever,49,No,No,Obesity class III,6.5,158,Yes
+Female,never,67,No,No,Obesity class III,6.2,126,No
+Male,former,66,Yes,No,Overweight,5.7,100,No
+Female,former,26,No,No,Overweight,5.7,145,Yes
+Female,former,60,Yes,No,Obesity class III,6.8,260,Yes
+Male,never,45,No,No,Overweight,5,158,Yes
+Female,never,39,No,No,Obesity class III,5.7,155,Yes
+Female,never,61,No,No,Obesity class I,4,140,Yes
+Female,former,63,No,No,Normal,4.8,200,Yes
+Female,never,44,No,No,Overweight,4,140,Yes
+Female,never,46,No,No,Overweight,5.7,126,No
+Male,former,61,Yes,No,Overweight,7,155,Yes
+Male,never,80,No,No,Overweight,6.1,160,Yes
+Male,former,75,No,No,Obesity class I,7,155,Yes
+Male,former,57,No,No,Obesity class II,4,159,Yes
+Male,never,61,No,No,Obesity class I,5,126,No
+Female,current,57,No,No,Obesity class I,5.8,159,Yes
+Female,former,78,No,No,Overweight,4,160,Yes
+Female,ever,67,No,No,Overweight,5.7,158,Yes
+Female,current,45,Yes,No,Obesity class I,9,145,Yes
+Male,current,43,No,No,Obesity class I,6,140,Yes
+Female,former,76,No,No,Obesity class II,6.6,155,Yes
+Female,current,31,No,No,Overweight,6.2,80,No
+Male,never,25,No,No,Overweight,6.1,159,Yes
+Female,former,45,No,No,Overweight,4.5,80,No
+Female,never,63,No,No,Normal,6.2,126,No
+Female,never,72,No,No,Normal,7,140,Yes
+Female,ever,53,Yes,Yes,Obesity class I,6.2,159,Yes
+Female,current,47,No,No,Obesity class I,5,130,Yes
+Male,never,59,No,No,Overweight,3.5,145,Yes
+Male,ever,60,No,Yes,Obesity class I,6,158,Yes
+Male,never,33,No,No,Overweight,5.7,80,No
+Male,never,30,No,No,Obesity class I,5.7,130,Yes
+Female,current,25,No,No,Overweight,5,140,Yes
+Female,never,44,No,No,Obesity class II,5.7,140,Yes
+Female,current,53,No,No,Overweight,6.6,160,Yes
+Male,former,53,Yes,No,Obesity class III,5.7,85,No
+Female,never,61,No,No,Normal,4,85,No
+Male,current,67,Yes,Yes,Overweight,5.7,100,No
+Female,ever,43,No,No,Normal,5.8,200,Yes
+Female,never,58,No,No,Overweight,5.8,130,Yes
+Male,current,40,No,Yes,Overweight,6.2,200,Yes
+Female,current,49,No,No,Overweight,4,159,Yes
+Female,never,35,No,No,Overweight,4,140,Yes
+Male,former,53,No,No,Overweight,6.6,158,Yes
+Male,former,57,No,No,Overweight,6.1,160,Yes
+Male,current,31,No,No,Obesity class I,6,140,Yes
+Male,ever,38,No,No,Overweight,6.6,80,Yes
+Female,current,60,No,Yes,Obesity class I,6.8,159,Yes
+Female,former,58,No,No,Obesity class III,4.8,158,Yes
+Female,former,68,Yes,No,Overweight,4,159,Yes
+Female,never,33,No,No,Obesity class I,5,80,No
+Female,never,32,No,No,Obesity class I,6.6,100,Yes
+Female,never,60,Yes,No,Normal,5.8,160,Yes
+Male,never,43,No,No,Obesity class I,6.6,126,Yes
+Male,never,25,No,No,Overweight,5,100,No
+Male,never,60,No,No,Overweight,4,90,No
+Female,never,39,No,No,Obesity class III,6.6,90,Yes
+Female,current,80,No,No,Normal,6.5,90,No
+Female,never,80,No,Yes,Overweight,6.8,126,Yes
+Male,ever,54,No,No,Overweight,3.5,85,No
+Male,never,37,No,No,Obesity class III,4.5,155,Yes
+Male,never,80,No,No,Overweight,6.6,158,Yes
+Male,ever,62,No,No,Overweight,6,200,Yes
+Male,never,45,No,No,Overweight,4.8,145,Yes
+Male,former,55,No,No,Overweight,5,90,No
+Female,never,60,No,No,Normal,4.5,80,No
+Female,former,75,No,No,Normal,4,155,Yes
+Female,never,33,No,No,Normal,4.8,130,Yes
+Female,current,36,No,No,Obesity class III,6.2,140,Yes
+Female,never,38,No,No,Obesity class II,5.7,130,Yes
+Male,never,48,Yes,No,Obesity class I,5.7,155,Yes
+Male,never,73,No,No,Overweight,6.2,140,Yes
+Male,former,66,No,No,Overweight,6,130,Yes
+Female,former,52,No,No,Obesity class III,4.5,158,Yes
+Male,never,52,No,No,Overweight,4,145,Yes
+Female,never,47,No,No,Overweight,4,158,Yes
+Female,never,72,No,No,Overweight,5.7,260,Yes
+Male,never,49,No,No,Normal,6.1,80,No
+Female,never,47,No,No,Overweight,6.6,158,Yes
+Female,never,44,No,No,Normal,4,90,No
+Female,former,70,No,Yes,Obesity class II,4.5,155,Yes
+Male,never,77,Yes,No,Obesity class I,6.1,240,Yes
+Female,never,47,No,No,Normal,6.1,159,Yes
+Male,never,44,No,No,Obesity class I,5.7,155,Yes
+Female,never,36,No,No,Normal,5.8,90,No
+Female,former,65,No,No,Normal,5.8,80,No
+Female,never,33,No,No,Overweight,5,200,Yes
+Male,ever,60,No,No,Obesity class I,6.5,159,Yes
+Female,never,38,No,No,Obesity class II,5.7,200,Yes
+Male,current,57,No,No,Underweight,6.2,160,Yes
+Male,current,44,No,No,Overweight,5,130,Yes
+Female,never,58,No,No,Obesity class I,4,130,Yes
+Female,former,34,No,No,Overweight,6.5,160,Yes
+Female,current,28,No,No,Normal,6.2,130,Yes
+Male,never,80,No,No,Overweight,6.1,140,Yes
+Male,never,38,No,No,Overweight,6,126,No
+Male,never,52,No,No,Obesity class I,4.8,155,Yes
+Female,never,70,Yes,No,Obesity class III,4,126,No
+Male,never,28,No,No,Overweight,6,158,Yes
+Female,never,46,No,No,Overweight,6.1,130,Yes
+Male,never,35,No,No,Obesity class II,6.6,200,Yes
+Male,former,45,No,No,Overweight,4.8,200,Yes
+Female,former,44,No,No,Obesity class II,3.5,160,Yes
+Female,former,52,No,No,Normal,6.2,158,Yes
+Female,current,68,No,No,Overweight,6,85,No
+Female,never,47,No,No,Obesity class III,6.1,145,Yes
+Female,never,28,No,No,Normal,6.6,160,Yes
+Male,former,61,No,No,Overweight,4,158,Yes
+Female,former,29,No,No,Overweight,6.5,200,Yes
+Female,former,80,No,Yes,Obesity class I,4.5,158,Yes
+Female,never,69,No,No,Overweight,6.1,200,Yes
+Male,former,80,Yes,No,Overweight,3.5,130,Yes
+Female,current,48,No,No,Overweight,6.5,155,Yes
+Male,current,45,No,No,Overweight,6.6,200,Yes
+Male,never,35,No,No,Overweight,4,160,Yes
+Male,never,45,No,No,Obesity class III,5.7,130,Yes
+Female,never,55,No,No,Normal,6.2,90,No
+Male,never,30,No,No,Obesity class I,4.5,145,Yes
+Female,never,69,No,No,Obesity class I,6.2,100,No
+Male,current,59,No,No,Overweight,4.5,200,Yes
+Male,former,38,No,No,Obesity class II,5.8,260,Yes
+Male,never,37,No,No,Normal,4.8,200,Yes
+Female,never,31,No,No,Normal,5.7,145,Yes
+Female,never,29,No,No,Normal,3.5,126,No
+Male,never,62,No,No,Overweight,6.5,85,No
+Male,never,57,No,No,Normal,6.2,126,Yes
+Female,former,78,No,No,Normal,6.6,158,Yes
+Female,never,28,No,No,Obesity class II,3.5,85,No
+Female,never,80,Yes,No,Overweight,5.8,126,No
+Female,ever,77,No,No,Normal,6,100,No
+Male,former,54,No,No,Obesity class III,8.2,300,Yes
+Male,never,50,No,No,Obesity class II,6.1,155,Yes
+Female,never,60,No,No,Overweight,6.6,200,Yes
+Female,former,49,No,No,Obesity class II,6.2,85,No
+Male,never,65,No,No,Overweight,5,160,Yes
+Male,former,45,No,No,Normal,4,90,No
+Female,current,67,Yes,No,Overweight,5.8,90,No
+Male,never,42,No,No,Obesity class II,6.6,126,Yes
+Female,never,55,No,No,Overweight,4.5,145,Yes
+Female,former,43,No,No,Normal,3.5,80,No
+Female,never,43,No,No,Overweight,5.7,200,Yes
+Male,never,61,No,No,Normal,5.7,90,No
+Male,never,42,Yes,No,Obesity class III,6.5,140,Yes
+Female,never,80,No,No,Obesity class I,5,80,No
+Female,ever,39,No,No,Overweight,3.5,160,Yes
+Female,current,54,No,Yes,Obesity class I,6,160,Yes
+Female,never,34,No,No,Obesity class II,5.7,80,No
+Male,never,50,No,No,Obesity class I,5.8,126,No
+Female,former,58,No,No,Normal,4.5,85,No
+Female,ever,29,No,No,Overweight,6.1,85,No
+Male,former,74,No,No,Obesity class III,6.6,140,Yes
+Female,current,54,Yes,No,Obesity class III,6.6,145,Yes
+Male,never,80,No,No,Normal,5.7,200,Yes
+Male,former,69,No,No,Overweight,6.2,200,Yes
+Male,former,40,No,No,Overweight,5.8,145,Yes
+Female,never,59,No,No,Normal,6.5,145,Yes
+Male,never,43,No,No,Obesity class I,4.5,155,Yes
+Female,never,33,No,No,Obesity class III,6.6,140,Yes
+Male,former,80,No,No,Overweight,6,160,Yes
+Female,former,55,Yes,No,Obesity class III,4,155,Yes
+Female,current,44,No,No,Obesity class I,6.1,145,Yes
+Male,former,32,No,No,Obesity class I,4.8,140,Yes
+Female,never,33,No,No,Normal,5.8,159,Yes
+Male,never,29,No,No,Overweight,6.2,145,Yes
+Female,never,61,No,No,Overweight,6,155,Yes
+Female,never,70,No,No,Normal,4,155,Yes
+Female,current,43,No,No,Obesity class I,3.5,158,Yes
+Female,never,30,No,No,Overweight,4.8,90,No
+Female,never,44,No,No,Overweight,4.8,200,Yes
+Male,never,80,Yes,Yes,Normal,8.8,240,Yes
+Male,never,52,No,No,Overweight,6.6,158,Yes
+Male,ever,59,Yes,No,Overweight,4.8,159,Yes
+Female,never,62,Yes,No,Obesity class II,4,126,No
+Male,never,35,No,No,Overweight,6.2,145,Yes
+Female,current,41,No,No,Overweight,5,140,Yes
+Male,former,59,No,No,Overweight,5,100,No
+Female,current,52,No,No,Obesity class I,5,80,No
+Female,former,79,No,No,Overweight,5.8,145,Yes
+Female,current,34,No,No,Overweight,4.5,155,Yes
+Female,former,47,No,No,Overweight,6.2,140,Yes
+Male,former,79,No,Yes,Obesity class II,4.5,85,No
+Female,never,56,No,No,Overweight,5.7,85,No
+Male,former,31,No,No,Normal,5.7,145,Yes
+Female,never,37,No,No,Obesity class III,6.5,220,Yes
+Female,never,48,No,No,Normal,4,155,Yes
+Female,former,47,No,No,Obesity class III,6.6,200,Yes
+Male,ever,66,No,No,Normal,6.5,130,Yes
+Female,current,33,No,No,Overweight,5,200,Yes
+Female,never,36,No,No,Overweight,6.5,155,Yes
+Female,never,60,No,No,Overweight,4,90,No
+Female,never,60,No,No,Normal,6.1,85,No
+Female,never,65,Yes,No,Overweight,6.2,160,Yes
+Female,never,32,No,No,Obesity class I,4,159,Yes
+Male,never,80,No,No,Normal,6.1,80,No
+Female,never,50,No,No,Normal,9,145,Yes
+Female,former,58,No,No,Overweight,4.5,126,No
+Male,never,71,No,Yes,Overweight,9,130,Yes
+Male,never,49,No,No,Overweight,5.8,159,Yes
+Male,ever,63,Yes,No,Obesity class II,5.8,200,Yes
+Female,current,44,No,No,Overweight,3.5,80,No
+Female,never,56,No,No,Normal,6,130,Yes
+Female,former,80,No,No,Obesity class II,6,158,Yes
+Female,never,42,No,No,Overweight,5.8,160,Yes
+Male,former,65,No,No,Overweight,4.8,145,Yes
+Male,ever,57,No,No,Obesity class II,6.2,145,Yes
+Female,never,60,No,No,Normal,5.7,90,No
+Female,never,29,No,No,Normal,6,100,No
+Male,never,25,No,No,Overweight,4.8,155,Yes
+Female,ever,54,No,No,Normal,4.8,145,Yes
+Male,never,45,No,No,Obesity class II,5,100,No
+Male,former,53,No,Yes,Obesity class II,6,90,No
+Female,current,80,Yes,No,Normal,5.8,80,No
+Male,former,65,No,No,Obesity class I,8.2,159,Yes
+Female,former,75,No,No,Overweight,6,158,Yes
+Male,never,35,No,No,Obesity class II,6,85,No
+Female,current,60,No,No,Obesity class I,6.2,155,Yes
+Male,former,70,No,No,Obesity class II,5.8,260,Yes
+Male,never,33,No,No,Overweight,5.7,155,Yes
+Male,current,46,No,No,Overweight,4,159,Yes
+Female,ever,66,No,No,Overweight,4.5,85,No
+Male,former,37,No,No,Overweight,3.5,100,No
+Female,ever,35,No,No,Overweight,4.8,90,No
+Female,former,80,Yes,No,Normal,9,260,Yes
+Female,never,36,No,No,Normal,6.6,130,Yes
+Female,never,39,No,No,Overweight,6.2,85,No
+Female,current,44,No,No,Normal,5.7,145,Yes
+Male,never,80,Yes,No,Overweight,6.2,140,Yes
+Male,never,63,No,No,Overweight,3.5,158,Yes
+Female,never,47,No,No,Obesity class III,5.7,159,Yes
+Female,never,57,No,No,Overweight,5.7,90,No
+Female,never,40,No,No,Overweight,4.5,158,Yes
+Male,current,31,No,No,Overweight,3.5,140,Yes
+Female,current,30,No,No,Normal,6.2,140,Yes
+Male,never,60,No,No,Overweight,5,100,No
+Female,current,70,Yes,No,Overweight,6.2,200,Yes
+Female,former,50,No,No,Obesity class II,4.5,145,Yes
+Male,former,44,Yes,No,Obesity class I,6.1,160,Yes
+Female,former,47,No,No,Obesity class II,6.1,200,Yes
+Female,former,78,No,No,Normal,6.6,90,Yes
+Male,never,60,Yes,No,Overweight,6.2,85,No
+Male,former,54,No,No,Obesity class II,5.8,130,Yes
+Female,never,61,No,No,Overweight,4.8,140,Yes
+Female,never,26,No,No,Obesity class III,5.8,126,Yes
+Male,current,33,No,No,Overweight,6.1,80,No
+Male,former,49,No,No,Obesity class II,3.5,85,No
+Female,former,57,No,No,Overweight,3.5,126,No
+Male,never,25,No,No,Overweight,4.8,158,Yes
+Male,never,62,No,No,Overweight,5.7,90,No
+Female,former,60,Yes,No,Obesity class III,4,140,Yes
+Female,never,25,No,No,Obesity class I,5,126,No
+Female,never,53,Yes,No,Normal,4.8,126,No
+Female,never,36,No,No,Overweight,6.5,200,Yes
+Female,former,61,No,No,Overweight,4.5,140,Yes
+Male,current,64,No,No,Overweight,4.5,130,Yes
+Female,never,44,No,No,Overweight,6.5,159,Yes
+Female,former,80,Yes,No,Normal,4,159,Yes
+Male,former,80,Yes,No,Overweight,4,100,No
+Female,never,25,No,No,Obesity class I,5.7,140,Yes
+Female,ever,60,No,No,Overweight,4.5,100,No
+Female,never,55,Yes,No,Normal,6.1,145,Yes
+Female,never,48,No,No,Overweight,5.8,130,Yes
+Female,never,38,No,No,Obesity class II,6.5,90,No
+Male,former,35,No,No,Overweight,6.6,90,Yes
+Female,never,48,No,No,Obesity class I,3.5,130,Yes
+Male,former,57,No,No,Obesity class I,5.7,280,Yes
+Female,never,78,Yes,Yes,Obesity class II,6,130,Yes
+Male,former,72,No,No,Obesity class I,5,160,Yes
+Male,never,49,Yes,No,Obesity class I,6.2,85,No
+Female,current,48,No,No,Overweight,5,155,Yes
+Male,former,47,Yes,No,Overweight,5.8,140,Yes
+Female,never,28,No,No,Obesity class II,5.8,155,Yes
+Female,never,80,No,Yes,Obesity class II,4.5,130,Yes
+Female,never,57,No,No,Obesity class II,4.8,140,Yes
+Female,never,58,No,No,Normal,6.6,200,Yes
+Female,never,36,No,No,Obesity class III,6.6,200,Yes
+Female,former,73,No,No,Normal,6.1,80,No
+Female,current,35,No,No,Obesity class III,5,159,Yes
+Male,never,66,No,No,Obesity class I,6.1,126,No
+Female,former,32,No,No,Overweight,4.5,159,Yes
+Male,former,59,No,No,Overweight,6.1,90,No
+Male,former,30,No,No,Obesity class I,7,280,Yes
+Female,former,66,No,Yes,Overweight,5,158,Yes
+Male,former,27,No,No,Overweight,6,158,Yes
+Male,ever,73,No,No,Obesity class II,4.8,130,Yes
+Male,never,34,No,No,Obesity class II,3.5,140,Yes
+Female,never,28,No,No,Obesity class I,6.6,155,Yes
+Female,never,45,No,No,Overweight,3.5,100,No
+Female,never,80,No,No,Underweight,4.5,200,Yes
+Female,former,30,No,No,Obesity class II,4,140,Yes
+Female,never,48,No,No,Overweight,4,80,No
+Female,never,40,No,No,Overweight,6,85,No
+Female,never,39,No,No,Obesity class II,6,200,Yes
+Female,never,74,No,Yes,Obesity class I,3.5,159,Yes
+Male,current,29,No,No,Overweight,6.2,159,Yes
+Female,never,26,No,No,Overweight,5.8,130,Yes
+Female,ever,75,Yes,No,Obesity class II,5.8,158,Yes
+Female,never,26,No,No,Overweight,4,80,No
+Male,current,67,No,No,Overweight,6.6,90,Yes
+Male,never,38,No,No,Obesity class III,4.8,130,Yes
+Female,former,46,No,No,Overweight,6.2,145,Yes
+Female,former,43,No,No,Overweight,3.5,85,No
+Female,never,27,No,No,Obesity class I,3.5,90,No
+Female,never,33,No,No,Normal,4.8,155,Yes
+Female,ever,65,No,No,Obesity class III,6.1,90,No
+Female,never,43,Yes,No,Obesity class III,6.1,159,Yes
+Female,never,50,No,No,Obesity class II,5.8,158,Yes
+Female,never,47,No,No,Obesity class I,6.2,85,No
+Male,never,58,No,Yes,Obesity class III,5.7,140,Yes
+Male,former,80,No,No,Overweight,4.8,100,No
+Female,current,59,Yes,No,Obesity class I,5.7,155,Yes
+Male,never,47,No,No,Obesity class I,6.6,126,Yes
+Male,never,30,No,No,Normal,6.6,200,Yes
+Male,current,72,No,Yes,Overweight,5.7,85,No
+Female,former,54,Yes,No,Obesity class I,7,130,Yes
+Female,never,33,No,No,Normal,4.5,130,Yes
+Female,never,80,No,No,Normal,3.5,158,Yes
+Female,former,56,No,No,Normal,3.5,158,Yes
+Female,current,44,No,No,Normal,4.5,160,Yes
+Female,former,37,No,No,Normal,6.1,130,Yes
+Female,former,26,No,No,Normal,5.8,155,Yes
+Female,former,80,No,No,Overweight,6.1,100,No
+Male,never,43,No,No,Overweight,6.2,80,No
+Female,former,61,No,No,Obesity class II,5.8,90,No
+Female,never,79,No,No,Underweight,5,155,Yes
+Female,never,31,No,No,Normal,4,126,No
+Female,former,59,No,No,Overweight,6.2,145,Yes
+Female,never,48,No,No,Overweight,6.2,140,Yes
+Female,former,43,No,No,Normal,4,160,Yes
+Male,ever,59,No,Yes,Obesity class I,5,126,No
+Male,ever,65,No,No,Overweight,3.5,155,Yes
+Male,never,47,No,No,Overweight,6,260,Yes
+Female,never,38,No,No,Normal,5,158,Yes
+Male,former,47,No,No,Overweight,6.1,90,No
+Female,never,38,No,No,Normal,6.5,200,Yes
+Female,current,70,No,No,Overweight,7.5,240,Yes
+Female,never,74,No,No,Overweight,6.6,155,Yes
+Female,ever,50,No,No,Obesity class I,6.1,130,Yes
+Male,never,80,No,No,Overweight,6.1,140,Yes
+Male,former,79,No,Yes,Overweight,5.8,130,Yes
+Male,former,57,No,No,Normal,6.2,140,Yes
+Female,never,70,No,No,Overweight,5.7,159,Yes
+Female,never,80,Yes,No,Normal,6.5,100,No
+Male,current,57,No,No,Obesity class I,4,80,No
+Female,never,33,No,No,Obesity class III,3.5,80,No
+Female,never,39,No,No,Overweight,6.5,90,No
+Female,never,33,No,No,Normal,4,145,Yes
+Female,current,43,No,No,Normal,6.2,85,No
+Male,former,54,No,No,Overweight,6.5,155,Yes
+Female,never,49,No,No,Overweight,4.8,100,No
+Female,current,32,No,No,Normal,4,159,Yes
+Female,never,52,No,No,Overweight,4,130,Yes
+Male,former,42,No,No,Overweight,6.2,159,Yes
+Female,current,55,No,No,Obesity class I,6,126,No
+Female,former,28,No,No,Overweight,5.8,200,Yes
+Male,former,58,Yes,No,Overweight,4,158,Yes
+Female,never,56,No,No,Overweight,4,130,Yes
+Female,never,53,No,No,Overweight,6.6,140,Yes
+Male,current,60,No,Yes,Obesity class I,4,200,Yes
+Male,former,56,No,No,Overweight,4,159,Yes
+Female,ever,31,No,No,Obesity class I,5.7,140,Yes
+Male,current,49,No,No,Overweight,6.1,126,No
+Male,never,51,No,No,Obesity class I,6,159,Yes
+Female,never,53,No,No,Overweight,6,80,No
+Female,current,27,No,No,Overweight,4.5,160,Yes
+Female,never,72,No,No,Overweight,6.1,200,Yes
+Female,former,44,No,No,Normal,6.2,145,Yes
+Male,current,72,No,Yes,Overweight,6.6,200,Yes
+Male,former,64,No,Yes,Obesity class I,6.1,145,Yes
+Female,never,46,No,No,Overweight,5.7,159,Yes
+Female,never,43,No,No,Obesity class I,4.5,159,Yes
+Female,never,56,No,No,Overweight,4,158,Yes
+Female,never,46,No,No,Obesity class I,6,90,No
+Female,current,38,No,No,Overweight,4,155,Yes
+Male,current,55,No,No,Overweight,6.5,240,Yes
+Female,former,36,No,No,Overweight,6.6,160,Yes
+Female,never,39,No,No,Overweight,6,145,Yes
+Male,never,56,No,No,Overweight,4.8,100,No
+Female,current,71,No,No,Obesity class I,6.6,80,Yes
+Female,ever,54,No,No,Normal,4.5,158,Yes
+Female,never,68,No,No,Overweight,6,90,No
+Female,former,64,No,No,Normal,5.8,155,Yes
+Female,former,72,No,Yes,Normal,6.6,159,Yes
+Female,never,49,No,No,Obesity class II,4.8,80,No
+Female,current,53,No,No,Overweight,9,240,Yes
+Female,never,33,No,No,Obesity class III,4.5,140,Yes
+Female,never,44,No,No,Overweight,6.1,100,No
+Male,former,62,No,No,Overweight,6.1,159,Yes
+Male,never,48,No,No,Overweight,6.5,200,Yes
+Female,former,67,Yes,Yes,Obesity class II,8.8,155,Yes
+Female,never,30,No,No,Normal,5.8,155,Yes
+Male,never,60,No,Yes,Overweight,5,145,Yes
+Female,former,29,No,No,Overweight,6.5,160,Yes
+Female,former,44,No,No,Obesity class I,6,140,Yes
+Female,never,55,No,No,Obesity class I,4.5,158,Yes
+Female,never,27,No,No,Obesity class III,5.8,80,No
+Female,never,79,No,No,Overweight,6.1,160,Yes
+Female,current,29,No,No,Overweight,4.5,158,Yes
+Female,never,40,No,No,Obesity class II,6.6,126,Yes
+Female,never,44,No,No,Obesity class I,6.2,145,Yes
+Female,never,76,No,No,Obesity class I,3.5,155,Yes
+Male,former,80,No,No,Normal,5.7,160,Yes
+Female,current,44,No,No,Obesity class II,6.6,90,Yes
+Female,never,44,No,No,Overweight,5.8,126,No
+Male,never,58,No,No,Normal,3.5,80,No
+Female,never,66,No,No,Overweight,6.2,80,No
+Female,current,32,No,No,Normal,6,158,Yes
+Male,former,49,No,Yes,Overweight,6.5,155,Yes
+Female,former,27,No,No,Normal,4.5,90,No
+Female,ever,28,No,No,Overweight,6,126,Yes
+Female,ever,68,No,No,Normal,5,158,Yes
+Female,never,80,No,Yes,Overweight,7,145,Yes
+Male,former,50,No,No,Obesity class I,6,140,Yes
+Male,never,55,No,No,Overweight,4.5,100,No
+Male,never,34,No,No,Obesity class III,6.8,159,Yes
+Female,never,46,No,No,Overweight,5.7,85,No
+Male,current,51,No,No,Overweight,4,145,Yes
+Female,ever,63,Yes,No,Normal,5,90,No
+Female,former,28,No,No,Overweight,5.8,130,Yes
+Male,ever,49,No,No,Overweight,4.5,155,Yes
+Male,never,49,Yes,No,Overweight,4,100,No
+Female,never,39,No,No,Overweight,5.7,155,Yes
+Female,former,80,No,No,Normal,4.5,130,Yes
+Male,current,67,No,No,Overweight,5.8,240,Yes
+Male,never,65,Yes,Yes,Overweight,8.8,145,Yes
+Male,never,74,Yes,Yes,Obesity class I,3.5,200,Yes
+Female,current,46,No,No,Overweight,8.2,130,Yes
+Female,never,71,Yes,No,Overweight,5,80,No
+Male,former,80,No,Yes,Normal,6.1,159,Yes
+Female,current,33,No,No,Obesity class I,3.5,85,No
+Male,former,73,No,Yes,Overweight,5,126,No
+Female,current,40,No,No,Obesity class III,5.8,155,Yes
+Female,never,42,No,No,Obesity class III,6.5,140,Yes
+Female,never,43,No,No,Normal,6.2,140,Yes
+Female,ever,32,No,No,Overweight,4.8,126,No
+Male,current,76,No,No,Overweight,5,130,Yes
+Female,ever,46,No,No,Normal,3.5,145,Yes
+Female,former,65,No,No,Normal,5.8,85,No
+Male,former,71,Yes,Yes,Obesity class I,5.8,160,Yes
+Male,former,71,No,No,Overweight,4,130,Yes
+Female,never,70,No,No,Overweight,6.1,220,Yes
+Male,never,31,No,No,Obesity class II,6.5,160,Yes
+Male,former,67,No,No,Obesity class II,5.7,90,No
+Male,never,53,No,No,Overweight,5,158,Yes
+Female,never,58,No,No,Obesity class I,6,155,Yes
+Male,never,42,No,No,Overweight,4.5,126,No
+Female,never,35,No,No,Obesity class I,6.2,100,No
+Male,never,30,No,No,Obesity class I,6.5,140,Yes
+Female,never,31,No,No,Overweight,5.8,145,Yes
+Male,current,55,No,No,Obesity class I,6.1,126,No
+Female,former,47,No,No,Overweight,5,90,No
+Male,never,59,No,No,Overweight,6.2,159,Yes
+Male,current,53,No,No,Overweight,6.1,300,Yes
+Male,never,36,No,No,Obesity class III,6.2,100,No
+Male,current,41,No,No,Normal,3.5,85,No
+Male,never,44,No,No,Overweight,6.2,145,Yes
+Female,ever,60,No,No,Obesity class I,6,85,No
+Male,never,39,No,No,Obesity class II,5.7,159,Yes
+Male,never,56,No,No,Overweight,6.5,159,Yes
+Female,current,75,No,No,Overweight,6.6,145,Yes
+Female,former,48,No,No,Overweight,5.7,130,Yes
+Male,never,53,No,No,Overweight,5,159,Yes
+Male,former,53,No,No,Overweight,4,155,Yes
+Male,current,48,No,No,Overweight,5,140,Yes
+Female,never,51,No,No,Obesity class I,4.8,130,Yes
+Male,former,60,Yes,No,Normal,5,155,Yes
+Male,current,80,Yes,No,Overweight,4.8,145,Yes
+Female,never,41,No,No,Obesity class III,6.2,159,Yes
+Male,never,40,No,No,Overweight,3.5,126,No
+Male,ever,30,No,No,Overweight,4.8,159,Yes
+Female,never,35,No,No,Normal,4,155,Yes
+Female,former,59,No,No,Obesity class II,5.7,260,Yes
+Female,former,44,No,No,Obesity class II,6.6,155,Yes
+Male,never,51,No,No,Obesity class I,4,160,Yes
+Male,never,58,No,No,Normal,4.8,80,No
+Female,never,65,No,No,Overweight,4,159,Yes
+Female,never,54,No,No,Overweight,3.5,140,Yes
+Male,never,76,No,No,Obesity class I,4,155,Yes
+Male,former,55,No,Yes,Obesity class I,6.1,140,Yes
+Male,former,80,No,No,Normal,6.2,130,Yes
+Female,never,43,No,No,Normal,4,145,Yes
+Male,never,73,No,No,Overweight,5.8,145,Yes
+Male,never,25,No,No,Obesity class I,6,140,Yes
+Male,former,74,Yes,No,Overweight,4,159,Yes
+Female,never,32,No,No,Obesity class I,6,126,No
+Male,former,69,No,No,Overweight,4.5,160,Yes
+Male,current,50,No,No,Normal,3.5,130,Yes
+Female,never,49,No,Yes,Overweight,4.5,200,Yes
+Female,current,51,No,No,Overweight,5,130,Yes
+Male,former,36,No,No,Overweight,3.5,126,No
+Female,never,65,No,No,Obesity class I,7.5,130,Yes
+Female,former,75,No,Yes,Obesity class II,9,126,Yes
+Female,never,57,No,No,Normal,4,145,Yes
+Male,former,67,No,No,Obesity class III,8.8,145,Yes
+Female,former,80,No,Yes,Normal,7,159,Yes
+Female,current,30,No,No,Normal,5.7,90,No
+Female,former,35,No,No,Overweight,5.7,80,No
+Female,current,29,No,No,Overweight,4.8,140,Yes
+Female,former,29,No,No,Overweight,6.6,159,Yes
+Female,never,32,No,No,Normal,6,130,Yes
+Female,never,54,No,No,Overweight,4.8,90,No
+Male,former,32,No,No,Overweight,6.2,100,No
+Female,never,48,No,No,Obesity class I,6,155,Yes
+Male,ever,79,No,No,Obesity class III,5.7,145,Yes
+Male,never,50,No,No,Overweight,6.1,140,Yes
+Female,ever,71,No,No,Obesity class II,5.8,130,Yes
+Female,former,51,No,No,Obesity class III,7,220,Yes
+Male,never,59,No,No,Obesity class II,5,140,Yes
+Female,former,41,No,No,Overweight,6,100,No
+Female,former,52,No,No,Overweight,5,160,Yes
+Female,never,30,No,No,Obesity class II,6.1,160,Yes
+Female,never,67,No,No,Overweight,4,160,Yes
+Female,never,32,No,No,Normal,4.5,159,Yes
+Male,never,49,No,No,Overweight,5.8,140,Yes
+Female,never,63,Yes,No,Obesity class I,6.1,90,No
+Female,never,58,No,No,Overweight,5,159,Yes
+Female,never,43,No,No,Obesity class I,4.5,90,No
+Female,never,27,No,No,Overweight,4,90,No
+Male,never,44,No,No,Overweight,6.6,140,Yes
+Female,former,80,No,No,Normal,4.8,159,Yes
+Female,never,53,No,No,Overweight,6.2,280,Yes
+Male,current,46,No,No,Obesity class I,4,85,No
+Female,ever,55,No,No,Obesity class I,6.5,160,Yes
+Male,ever,68,Yes,No,Overweight,6.5,80,No
+Female,never,77,No,No,Normal,4.5,159,Yes
+Male,former,78,No,No,Obesity class I,5,80,No
+Male,never,47,No,No,Overweight,5,126,No
+Female,never,69,Yes,No,Obesity class I,6.1,140,Yes
+Male,current,38,No,No,Overweight,5.8,90,No
+Male,never,39,No,No,Overweight,5.7,160,Yes
+Male,former,40,No,No,Obesity class I,4.8,200,Yes
+Male,never,47,No,No,Overweight,5.8,90,No
+Male,current,42,No,No,Obesity class I,6.5,100,No
+Female,never,65,No,Yes,Overweight,6,159,Yes
+Male,never,40,No,No,Normal,6.2,145,Yes
+Male,former,80,No,Yes,Normal,7,126,Yes
+Female,ever,57,No,No,Obesity class III,4.5,159,Yes
+Male,current,38,No,No,Overweight,5.7,126,No
+Male,never,49,No,No,Overweight,6.1,158,Yes
+Male,former,27,No,No,Obesity class I,6.1,100,No
+Female,never,76,No,No,Overweight,3.5,155,Yes
+Female,current,35,No,No,Overweight,4,130,Yes
+Female,former,80,Yes,No,Overweight,4.5,155,Yes
+Male,never,77,No,No,Overweight,4.5,160,Yes
+Female,never,48,No,No,Overweight,6.5,85,No
+Female,former,69,No,No,Obesity class I,4.5,159,Yes
+Female,never,44,No,No,Obesity class I,5.8,80,No
+Female,current,37,No,No,Obesity class III,6,100,No
+Female,current,47,No,No,Normal,6.5,126,No
+Male,former,80,No,No,Overweight,6.5,80,No
+Female,never,30,No,No,Overweight,6.2,155,Yes
+Male,ever,80,No,Yes,Overweight,6.2,300,Yes
+Female,never,53,No,No,Overweight,4.5,140,Yes
+Female,never,41,No,No,Obesity class III,5.7,155,Yes
+Female,never,39,No,No,Obesity class II,4.5,200,Yes
+Female,current,43,No,No,Obesity class II,6.5,100,No
+Female,current,39,No,No,Overweight,5.8,130,Yes
+Female,current,31,No,No,Underweight,6.6,126,Yes
+Male,former,41,No,No,Obesity class II,6.5,145,Yes
+Female,never,47,No,No,Normal,4.8,158,Yes
+Male,current,26,No,No,Overweight,3.5,90,No
+Female,never,34,No,No,Overweight,6.5,85,No
+Male,former,65,No,No,Obesity class III,6.6,158,Yes
+Female,never,30,No,No,Obesity class I,6.5,130,Yes
+Female,never,49,No,No,Obesity class I,5.7,155,Yes
+Female,former,60,No,No,Obesity class III,4.5,160,Yes
+Female,former,78,Yes,No,Overweight,5.8,80,No
+Male,ever,45,Yes,No,Obesity class I,7,126,Yes
+Female,ever,55,No,No,Obesity class I,4.8,130,Yes
+Female,former,67,No,No,Overweight,6,200,Yes
+Female,never,80,No,No,Overweight,5,160,Yes
+Male,never,80,No,No,Overweight,6.5,90,No
+Male,never,62,Yes,No,Obesity class III,6.1,200,Yes
+Female,current,37,No,No,Normal,4.5,200,Yes
+Male,former,31,No,No,Overweight,6.6,140,Yes
+Female,former,34,No,No,Normal,4,140,Yes
+Female,former,80,Yes,Yes,Overweight,6.5,159,Yes
+Female,never,47,No,No,Overweight,5.7,155,Yes
+Female,never,55,No,No,Obesity class I,4.8,126,No
+Male,never,47,No,No,Obesity class I,6,80,No
+Male,never,38,No,No,Obesity class III,6.5,145,Yes
+Male,ever,71,No,Yes,Obesity class I,8.8,300,Yes
+Male,former,75,No,No,Overweight,6.6,155,Yes
+Female,never,66,No,No,Overweight,6.5,158,Yes
+Male,current,43,No,No,Normal,4.8,160,Yes
+Male,current,55,No,No,Overweight,4.5,158,Yes
+Female,never,53,No,No,Overweight,4.5,100,No
+Male,never,40,No,No,Overweight,6.2,90,No
+Female,former,80,No,Yes,Normal,5.8,160,Yes
+Female,current,25,No,No,Obesity class I,6.1,159,Yes
+Female,never,42,No,No,Overweight,5.8,85,No
+Male,former,49,No,No,Overweight,5.7,130,Yes
+Female,former,58,No,No,Overweight,6,260,Yes
+Female,never,54,No,No,Normal,3.5,159,Yes
+Male,never,49,No,No,Obesity class I,6.1,80,No
+Male,never,41,No,No,Overweight,3.5,100,No
+Female,current,73,No,No,Normal,8.8,126,Yes
+Female,current,65,No,No,Normal,6.6,126,Yes
+Female,never,50,No,No,Normal,5.8,155,Yes
+Male,former,67,No,No,Normal,6.5,130,Yes
+Female,ever,64,Yes,No,Overweight,5.8,159,Yes
+Female,never,47,No,No,Obesity class I,4.8,155,Yes
+Female,former,44,No,No,Normal,4.8,159,Yes
+Male,current,56,No,No,Obesity class III,5.7,145,Yes
+Female,never,56,No,Yes,Obesity class II,4,100,No
+Male,former,36,No,No,Obesity class II,4,160,Yes
+Male,never,31,No,No,Obesity class II,6.6,155,Yes
+Male,current,71,No,No,Underweight,4.5,130,Yes
+Female,former,78,No,No,Overweight,5,200,Yes
+Female,never,28,No,No,Normal,5.7,159,Yes
+Female,never,37,No,No,Obesity class I,4,100,No
+Female,never,65,No,No,Overweight,5,160,Yes
+Male,former,65,No,No,Overweight,6,160,Yes
+Male,never,34,No,No,Normal,6.6,159,Yes
+Female,never,80,No,No,Overweight,4,200,Yes
+Female,never,32,No,No,Overweight,6.5,100,No
+Female,former,35,No,No,Overweight,6,80,No
+Male,ever,50,No,No,Overweight,3.5,126,No
+Male,former,70,No,No,Obesity class III,6.2,200,Yes
+Female,never,32,No,No,Normal,4.5,155,Yes
+Male,never,51,No,No,Obesity class II,6.1,140,Yes
+Male,former,80,No,No,Normal,5.7,158,Yes
+Male,never,29,No,No,Overweight,5,100,No
+Female,never,26,No,No,Normal,4.8,155,Yes
+Female,former,75,Yes,No,Obesity class I,5,158,Yes
+Female,former,34,No,No,Normal,4.8,200,Yes
+Male,never,50,No,Yes,Obesity class I,6.5,220,Yes
+Female,never,80,No,No,Overweight,8.2,140,Yes
+Male,never,29,No,No,Overweight,4,130,Yes
+Female,former,50,No,No,Obesity class III,5,159,Yes
+Male,current,63,No,Yes,Overweight,6.5,160,Yes
+Female,never,60,No,No,Overweight,5,100,No
+Male,never,40,No,No,Overweight,6.1,130,Yes
+Male,never,48,No,No,Overweight,5.7,155,Yes
+Female,never,70,No,No,Obesity class III,5.7,200,Yes
+Male,never,50,No,No,Overweight,5.8,159,Yes
+Female,never,36,No,No,Normal,5.8,159,Yes
+Male,former,59,No,Yes,Obesity class III,9,159,Yes
+Female,never,57,No,No,Overweight,4,85,No
+Male,current,46,No,No,Normal,5,126,No
+Female,current,37,No,No,Normal,3.5,200,Yes
+Female,never,47,No,No,Overweight,3.5,158,Yes
+Female,never,48,No,No,Normal,3.5,80,No
+Female,never,43,No,No,Normal,6.6,200,Yes
+Male,never,30,No,No,Normal,6.2,159,Yes
+Female,never,60,No,No,Normal,5,130,Yes
+Male,former,56,No,No,Obesity class II,5,100,No
+Male,former,75,No,Yes,Overweight,7.5,160,Yes
+Male,current,53,No,No,Overweight,5.7,130,Yes
+Male,current,60,No,No,Overweight,4.8,200,Yes
+Female,never,43,No,No,Obesity class I,6.2,140,Yes
+Female,never,62,No,No,Normal,6.6,85,Yes
+Male,never,56,Yes,No,Normal,4.5,90,No
+Male,current,58,No,No,Obesity class I,6.2,145,Yes
+Female,former,55,No,No,Overweight,6.1,159,Yes
+Male,ever,57,No,Yes,Obesity class II,4,80,No
+Male,former,46,Yes,No,Overweight,6,140,Yes
+Female,never,80,No,No,Obesity class I,6,159,Yes
+Male,never,35,No,No,Overweight,6,155,Yes
+Female,former,66,No,No,Overweight,5.7,126,No
+Male,former,72,No,Yes,Normal,4,85,No
+Male,ever,46,No,No,Obesity class II,6,200,Yes
+Female,former,51,No,No,Normal,6.5,145,Yes
+Male,never,34,No,No,Obesity class III,3.5,160,Yes
+Female,current,47,No,No,Overweight,6,160,Yes
+Female,former,25,No,No,Normal,6.5,159,Yes
+Female,former,43,No,No,Overweight,5.7,160,Yes
+Female,never,73,Yes,No,Obesity class I,6.2,90,No
+Female,current,27,No,No,Obesity class II,5.7,80,No
+Male,former,62,No,No,Overweight,6.2,100,No
+Female,never,30,No,No,Obesity class I,6,158,Yes
+Female,never,32,No,No,Overweight,4.8,140,Yes
+Male,never,76,No,No,Obesity class II,6.5,240,Yes
+Female,never,40,No,No,Normal,5.8,158,Yes
+Female,current,73,No,Yes,Obesity class III,3.5,200,Yes
+Male,ever,42,No,No,Obesity class III,5.7,155,Yes
+Female,never,55,No,No,Obesity class III,6.1,155,Yes
+Female,current,56,No,No,Obesity class I,6.6,160,Yes
+Female,never,41,No,No,Obesity class II,4,126,No
+Male,never,72,No,Yes,Overweight,6.6,100,Yes
+Male,ever,33,No,No,Overweight,4,160,Yes
+Male,former,57,No,No,Overweight,4.5,158,Yes
+Female,never,47,Yes,No,Obesity class III,5.8,145,Yes
+Female,former,25,No,No,Obesity class III,5,130,Yes
+Male,current,61,No,No,Overweight,6.1,159,Yes
+Female,never,54,No,No,Obesity class I,6.6,155,Yes
+Female,former,56,No,No,Normal,6.2,160,Yes
+Female,ever,28,No,No,Obesity class III,6,90,No
+Female,former,70,No,No,Overweight,5,140,Yes
+Male,former,48,No,No,Normal,5.7,159,Yes
+Female,never,49,No,No,Obesity class III,4,155,Yes
+Female,ever,44,No,No,Normal,6.1,140,Yes
+Female,never,39,No,No,Normal,4.8,155,Yes
+Female,never,58,No,No,Obesity class II,4.5,155,Yes
+Male,former,40,No,No,Normal,5,145,Yes
+Male,ever,55,No,No,Overweight,6.2,130,Yes
+Male,never,60,No,No,Obesity class II,5,158,Yes
+Female,current,54,No,No,Normal,4.8,200,Yes
+Female,former,65,Yes,No,Normal,6.6,140,Yes
+Male,former,48,No,No,Overweight,6,85,No
+Female,current,70,Yes,No,Normal,4,155,Yes
+Male,former,44,No,No,Obesity class II,4.8,130,Yes
+Female,current,49,No,No,Obesity class I,5.7,140,Yes
+Female,former,80,No,No,Normal,5.7,126,No
+Female,never,75,No,No,Overweight,4.5,145,Yes
+Female,current,38,No,No,Obesity class I,5.7,100,No
+Female,never,57,No,No,Obesity class I,8.2,160,Yes
+Female,former,55,No,No,Obesity class I,5.8,145,Yes
+Male,never,37,No,No,Overweight,6.1,158,Yes
+Male,current,30,No,No,Normal,5.8,80,No
+Female,never,64,No,No,Obesity class II,7.5,160,Yes
+Male,current,35,No,No,Overweight,6.6,100,Yes
+Male,former,59,No,No,Obesity class III,4.8,85,No
+Male,ever,31,No,No,Obesity class III,3.5,140,Yes
+Female,former,53,No,No,Obesity class I,6.5,280,Yes
+Male,never,46,Yes,No,Obesity class I,4,158,Yes
+Male,never,48,No,No,Obesity class III,4.8,100,No
+Female,never,43,No,No,Overweight,6.5,130,Yes
+Male,never,38,No,No,Overweight,5,155,Yes
+Male,never,52,No,No,Obesity class II,6.5,85,No
+Female,ever,44,Yes,No,Obesity class I,4.5,158,Yes
+Male,never,54,No,No,Normal,6.5,160,Yes
+Female,never,80,No,No,Obesity class I,6,90,No
+Female,never,71,Yes,No,Obesity class I,4,145,Yes
+Male,former,66,No,No,Overweight,6.5,126,No
+Female,never,45,No,No,Obesity class I,6.5,130,Yes
+Female,former,58,No,No,Normal,3.5,90,No
+Male,never,70,No,Yes,Overweight,8.8,160,Yes
+Female,never,29,No,No,Normal,6,160,Yes
+Female,never,52,No,No,Normal,6.1,145,Yes
+Male,never,42,No,No,Obesity class I,4,160,Yes
+Female,never,50,No,No,Obesity class I,5.7,140,Yes
+Female,never,26,No,No,Obesity class III,5.7,140,Yes
+Female,former,70,Yes,No,Normal,4.5,80,No
+Female,former,68,No,No,Overweight,4,145,Yes
+Male,current,38,No,No,Overweight,4.8,100,No
+Male,never,47,Yes,No,Overweight,4,85,No
+Female,former,55,No,No,Obesity class II,5,145,Yes
+Male,former,30,No,No,Obesity class I,6.2,130,Yes
+Female,never,56,Yes,No,Obesity class I,4.5,126,No
+Male,current,28,No,No,Overweight,6.2,140,Yes
+Female,former,73,Yes,No,Overweight,6,155,Yes
+Female,current,58,Yes,No,Overweight,6.6,90,Yes
+Male,never,51,No,No,Overweight,6,158,Yes
+Male,current,74,No,No,Overweight,5.7,130,Yes
+Male,never,72,No,No,Overweight,6,145,Yes
+Female,former,71,No,No,Normal,5.7,159,Yes
+Female,never,41,Yes,No,Obesity class I,5.7,130,Yes
+Male,current,52,No,No,Overweight,4.5,160,Yes
+Female,never,68,No,No,Normal,6.5,158,Yes
+Male,never,75,No,No,Obesity class I,6.6,260,Yes
+Female,never,29,No,No,Obesity class I,4,80,No
+Male,never,57,No,No,Obesity class II,4.5,145,Yes
+Female,never,54,No,No,Overweight,4.8,140,Yes
+Female,never,45,No,No,Overweight,5.7,140,Yes
+Female,never,65,No,Yes,Overweight,6,200,Yes
+Male,former,28,No,No,Overweight,5.8,100,No
+Male,never,51,No,No,Obesity class III,6.2,100,No
+Male,never,53,No,Yes,Obesity class I,6.5,300,Yes
+Male,never,68,No,No,Obesity class I,6.1,160,Yes
+Female,never,53,No,No,Normal,4.8,100,No
+Female,never,74,Yes,No,Overweight,5.8,240,Yes
+Female,former,41,No,No,Underweight,3.5,126,No
+Male,former,63,No,No,Overweight,3.5,159,Yes
+Female,never,36,No,No,Normal,5.8,100,No
+Female,never,27,No,No,Overweight,6.6,90,Yes
+Male,former,52,Yes,No,Obesity class II,7,220,Yes
+Male,current,28,No,No,Obesity class I,6.6,240,Yes
+Female,never,28,No,No,Normal,6.5,126,No
+Female,former,57,No,No,Overweight,4.5,158,Yes
+Female,never,48,No,No,Normal,3.5,145,Yes
+Female,never,50,No,No,Overweight,6,130,Yes
+Male,never,69,Yes,No,Overweight,6.2,280,Yes
+Female,current,34,No,No,Overweight,6.2,158,Yes
+Female,never,37,No,No,Overweight,6.1,85,No
+Male,current,57,No,No,Overweight,3.5,200,Yes
+Female,former,29,No,No,Obesity class III,3.5,126,No
+Female,current,53,No,No,Normal,5.7,159,Yes
+Female,former,43,No,No,Overweight,4.8,130,Yes
+Male,never,39,No,No,Overweight,5.8,90,No
+Male,never,45,No,No,Overweight,3.5,160,Yes
+Female,never,53,No,No,Normal,4,200,Yes
+Male,former,62,No,No,Normal,6.1,145,Yes
+Male,never,66,No,No,Normal,3.5,140,Yes
+Male,never,60,No,No,Obesity class II,3.5,126,No
+Male,former,25,No,No,Overweight,6.6,130,Yes
+Male,never,65,No,No,Obesity class III,5,90,No
+Female,never,48,No,No,Overweight,4,159,Yes
+Female,former,43,No,No,Overweight,6.1,155,Yes
+Female,former,29,No,No,Overweight,6,140,Yes
+Female,former,31,No,No,Overweight,6.1,130,Yes
+Male,former,64,No,No,Overweight,6.2,126,No
+Female,former,46,No,No,Overweight,6.6,160,Yes
+Female,never,56,No,No,Overweight,5.7,90,No
+Female,former,52,No,No,Normal,3.5,200,Yes
+Male,never,61,No,No,Obesity class II,3.5,159,Yes
+Female,never,55,No,No,Normal,4.5,145,Yes
+Male,never,25,No,No,Obesity class II,4.5,85,No
+Female,never,63,Yes,No,Obesity class I,6.1,155,Yes
+Male,former,39,No,No,Obesity class I,4,130,Yes
+Female,current,61,No,No,Normal,5.7,90,No
+Female,never,28,No,No,Normal,6.1,160,Yes
+Male,former,69,No,No,Overweight,6,155,Yes
+Male,never,54,No,No,Overweight,6.5,159,Yes
+Male,former,37,No,No,Overweight,6.6,145,Yes
+Male,never,43,No,No,Overweight,6.1,145,Yes
+Female,current,71,Yes,No,Overweight,6.5,90,No
+Female,never,50,No,No,Normal,4.5,158,Yes
+Male,current,57,No,No,Overweight,5,140,Yes
+Female,never,75,Yes,No,Normal,8.8,159,Yes
+Male,former,80,No,Yes,Normal,4,85,No
+Female,never,31,No,No,Overweight,6.2,126,No
+Female,ever,69,No,No,Obesity class I,6.6,160,Yes
+Female,never,50,Yes,No,Obesity class III,6,155,Yes
+Female,never,44,No,No,Obesity class I,3.5,155,Yes
+Female,never,36,No,No,Overweight,5.8,90,No
+Female,current,32,No,No,Overweight,5.8,130,Yes
+Female,former,60,No,Yes,Obesity class III,8.2,240,Yes
+Male,ever,31,No,No,Overweight,6.1,80,No
+Female,never,75,No,No,Overweight,5.7,100,No
+Female,ever,48,No,No,Overweight,4.8,145,Yes
+Female,current,67,No,No,Overweight,6.1,159,Yes
+Female,ever,58,No,No,Obesity class II,5.7,145,Yes
+Male,never,60,Yes,No,Overweight,7,159,Yes
+Female,never,40,No,No,Obesity class III,6.1,155,Yes
+Female,never,66,No,Yes,Obesity class III,6.6,155,Yes
+Male,former,47,No,No,Obesity class I,5.7,155,Yes
+Female,former,60,No,No,Overweight,6.2,160,Yes
+Female,never,77,Yes,No,Overweight,4.5,145,Yes
+Female,current,42,No,No,Overweight,6.6,85,Yes
+Female,former,31,No,No,Obesity class III,4.8,160,Yes
+Female,current,32,No,No,Overweight,5.7,200,Yes
+Male,former,39,No,No,Obesity class III,5.7,90,No
+Female,ever,46,No,No,Obesity class III,4.8,90,No
+Female,never,36,No,No,Normal,6.1,85,No
+Female,ever,70,No,No,Overweight,3.5,90,No
+Female,never,67,Yes,Yes,Overweight,3.5,126,No
+Female,never,34,No,No,Overweight,6.6,160,Yes
+Female,never,65,No,Yes,Normal,4,100,No
+Female,former,50,No,No,Overweight,6.1,130,Yes
+Female,never,41,No,No,Normal,5,155,Yes
+Female,current,46,No,No,Overweight,5.8,200,Yes
+Male,never,55,No,No,Overweight,6.5,85,No
+Female,never,28,No,No,Obesity class I,6,80,No
+Male,current,38,No,No,Overweight,4.5,90,No
+Female,former,35,No,No,Normal,6.5,140,Yes
+Male,never,29,No,No,Overweight,4.8,160,Yes
+Female,never,27,No,No,Normal,6,159,Yes
+Female,former,80,No,No,Overweight,5.7,130,Yes
+Female,current,42,No,No,Obesity class I,7,280,Yes
+Female,never,64,No,No,Normal,5.8,130,Yes
+Male,ever,31,No,No,Overweight,6.2,200,Yes
+Female,former,64,No,No,Overweight,4.8,140,Yes
+Female,never,38,No,No,Obesity class II,6.1,158,Yes
+Male,never,32,No,No,Overweight,5.8,159,Yes
+Female,never,43,No,No,Overweight,6,145,Yes
+Male,current,64,No,Yes,Overweight,8.8,300,Yes
+Male,current,35,No,No,Obesity class I,4,155,Yes
+Male,never,26,No,No,Overweight,6.5,80,No
+Female,never,46,No,No,Overweight,5.8,159,Yes
+Female,never,40,No,No,Overweight,4.5,100,No
+Female,current,42,No,No,Overweight,4.5,158,Yes
+Male,ever,38,No,No,Overweight,5.7,158,Yes
+Male,never,42,No,No,Obesity class II,4.8,100,No
+Male,ever,29,No,No,Obesity class I,6.1,160,Yes
+Male,former,80,Yes,No,Overweight,8.8,145,Yes
+Female,never,48,No,No,Normal,6.5,155,Yes
+Female,never,31,No,No,Normal,6.1,160,Yes
+Female,never,72,No,No,Obesity class I,5.7,145,Yes
+Female,current,51,No,No,Overweight,5,158,Yes
+Female,current,73,No,No,Overweight,4.8,80,No
+Male,former,59,Yes,No,Obesity class I,3.5,130,Yes
+Male,never,61,No,No,Overweight,5.7,140,Yes
+Female,former,29,No,No,Normal,3.5,158,Yes
+Female,former,74,No,No,Obesity class I,6,100,No
+Female,never,38,No,No,Overweight,6,159,Yes
+Female,never,49,No,No,Obesity class II,5.7,85,No
+Female,current,52,Yes,Yes,Normal,3.5,158,Yes
+Female,never,73,No,No,Obesity class I,6.6,130,Yes
+Female,former,27,No,No,Normal,6.6,100,Yes
+Male,former,62,No,No,Overweight,6.6,90,Yes
+Male,current,51,No,No,Underweight,6.2,280,Yes
+Female,never,51,No,No,Overweight,6.5,159,Yes
+Male,current,66,No,No,Overweight,6,200,Yes
+Male,never,43,No,No,Obesity class III,4.5,80,No
+Female,never,26,No,No,Overweight,6.5,158,Yes
+Male,ever,62,Yes,No,Obesity class I,4,85,No
+Female,never,47,No,No,Overweight,6.1,100,No
+Female,never,31,No,No,Normal,5.7,158,Yes
+Male,never,31,No,No,Overweight,6.6,100,Yes
+Male,current,34,No,No,Overweight,6.1,140,Yes
+Female,current,44,No,No,Overweight,6.6,100,Yes
+Female,never,53,No,No,Normal,7.5,240,Yes
+Female,current,46,No,No,Overweight,5,159,Yes
+Male,never,80,No,No,Overweight,6.5,80,No
+Female,former,58,Yes,Yes,Obesity class III,6.6,220,Yes
+Female,ever,58,No,No,Normal,5,145,Yes
+Male,never,46,No,No,Obesity class I,6.2,200,Yes
+Male,never,41,No,No,Obesity class III,5.8,200,Yes
+Female,former,40,No,No,Overweight,6.1,200,Yes
+Female,ever,67,Yes,No,Overweight,4.8,155,Yes
+Male,current,40,No,No,Obesity class I,3.5,90,No
+Male,never,48,No,No,Obesity class I,5.8,200,Yes
+Male,never,50,No,No,Obesity class II,5.8,280,Yes
+Female,ever,51,No,No,Obesity class I,4.8,200,Yes
+Female,never,48,Yes,No,Obesity class II,6,159,Yes
+Female,never,60,No,No,Normal,5.8,140,Yes
+Male,former,57,No,No,Overweight,6,155,Yes
+Female,ever,65,No,No,Overweight,5.7,130,Yes
+Female,never,25,No,No,Normal,5,126,No
+Female,never,56,No,No,Overweight,5,200,Yes
+Male,never,47,No,No,Overweight,4.8,130,Yes
+Female,never,34,No,No,Overweight,6.6,200,Yes
+Female,never,67,No,No,Obesity class I,4,159,Yes
+Male,current,71,Yes,Yes,Overweight,6.1,220,Yes
+Male,never,32,No,No,Overweight,6.2,85,No
+Female,ever,46,No,No,Normal,3.5,126,No
+Female,current,62,No,No,Obesity class I,5,200,Yes
+Female,never,64,No,No,Overweight,6.6,160,Yes
+Female,never,50,No,No,Overweight,6.1,90,No
+Male,current,42,No,No,Overweight,4.5,85,No
+Male,never,67,No,No,Obesity class II,6,158,Yes
+Male,current,55,No,No,Overweight,6.1,200,Yes
+Male,never,34,No,No,Normal,5.7,140,Yes
+Male,former,75,No,No,Normal,7,140,Yes
+Female,former,37,No,No,Obesity class I,5.7,100,No
+Male,former,39,No,No,Overweight,6.1,130,Yes
+Male,never,48,Yes,No,Obesity class II,6,90,No
+Female,never,58,No,No,Obesity class II,5.8,145,Yes
+Female,never,65,No,No,Obesity class I,6.6,126,Yes
+Female,former,47,No,No,Overweight,4,90,No
+Male,former,58,No,No,Obesity class II,5.7,126,No
+Male,former,78,Yes,No,Obesity class I,6.6,126,Yes
+Male,never,28,No,No,Overweight,6.5,200,Yes
+Female,never,64,No,No,Overweight,6,130,Yes
+Female,never,29,No,No,Normal,6.6,130,Yes
+Male,never,46,No,No,Obesity class I,6.1,140,Yes
+Female,current,59,No,No,Obesity class I,5,126,No
+Female,never,33,No,No,Obesity class III,6.5,80,No
+Male,ever,80,No,No,Overweight,6,159,Yes
+Male,current,65,No,No,Overweight,6.2,160,Yes
+Male,never,69,No,No,Normal,5.8,90,No
+Female,never,44,No,No,Normal,5.8,145,Yes
+Female,never,38,No,No,Overweight,5.7,159,Yes
+Male,never,49,No,No,Overweight,6.1,158,Yes
+Female,never,64,No,No,Normal,4.8,160,Yes
+Male,current,33,Yes,No,Obesity class I,6.2,130,Yes
+Female,never,40,No,No,Normal,3.5,158,Yes
+Female,never,49,No,No,Obesity class II,6.2,200,Yes
+Female,never,39,No,No,Obesity class I,3.5,155,Yes
+Female,current,42,No,No,Normal,5,90,No
+Female,never,80,No,No,Normal,5.7,200,Yes
+Female,never,25,No,No,Normal,4.5,158,Yes
+Female,never,48,No,No,Overweight,6.2,140,Yes
+Male,never,50,No,No,Obesity class III,5,145,Yes
+Female,never,51,No,No,Normal,4.8,90,No
+Female,never,60,No,No,Overweight,7.5,300,Yes
+Female,never,53,No,No,Overweight,6,90,No
+Female,never,65,Yes,No,Overweight,5.7,130,Yes
+Male,never,71,No,No,Obesity class I,6.1,280,Yes
+Male,never,39,No,No,Normal,4.5,159,Yes
+Male,never,39,Yes,No,Obesity class I,3.5,90,No
+Female,never,65,No,No,Overweight,5.8,85,No
+Female,never,74,No,No,Overweight,6.5,145,Yes
+Female,former,75,No,No,Overweight,3.5,159,Yes
+Female,current,26,No,No,Obesity class II,5.8,145,Yes
+Male,former,58,No,No,Obesity class I,4.8,126,No
+Female,former,32,No,No,Obesity class III,5.7,145,Yes
+Male,former,35,No,No,Overweight,3.5,100,No
+Female,former,67,No,No,Obesity class I,6.6,90,Yes
+Female,never,80,No,No,Obesity class III,6,220,Yes
+Male,ever,54,No,No,Overweight,8.2,160,Yes
+Female,never,61,No,No,Overweight,5.8,126,No
+Male,ever,38,No,No,Obesity class II,6.1,159,Yes
+Male,never,64,No,No,Overweight,6.6,160,Yes
+Male,current,53,No,No,Obesity class II,4.8,160,Yes
+Female,former,70,Yes,No,Obesity class I,4.5,130,Yes
+Male,current,34,Yes,No,Overweight,5.7,126,No
+Male,current,72,Yes,No,Overweight,5.7,155,Yes
+Female,former,40,No,No,Overweight,5.7,80,No
+Female,former,74,No,No,Obesity class III,4.5,200,Yes
+Female,current,43,No,No,Normal,4,158,Yes
+Female,former,67,No,No,Normal,6.2,80,No
+Female,former,64,No,No,Overweight,6.1,145,Yes
+Female,never,80,No,No,Overweight,7.5,200,Yes
+Female,never,62,No,No,Overweight,4,80,No
+Female,former,80,No,No,Normal,5,90,No
+Female,current,49,No,No,Obesity class I,6.5,200,Yes
+Female,ever,39,No,No,Overweight,4.8,159,Yes
+Male,never,44,No,No,Obesity class I,4.8,100,No
+Female,never,76,No,No,Obesity class III,6.5,80,No
+Female,never,31,No,No,Obesity class I,5,130,Yes
+Male,never,45,No,No,Overweight,5.8,126,No
+Female,never,47,No,No,Overweight,5.7,100,No
+Female,former,25,No,No,Obesity class II,6,130,Yes
+Female,never,25,No,No,Normal,4.5,155,Yes
+Female,never,42,No,No,Obesity class III,4.8,160,Yes
+Male,current,33,No,No,Obesity class I,4.5,140,Yes
+Male,former,59,No,No,Obesity class I,9,220,Yes
+Female,never,46,No,No,Overweight,4,140,Yes
+Female,never,42,No,No,Overweight,5.8,160,Yes
+Female,never,80,No,No,Overweight,6.5,158,Yes
+Female,never,67,Yes,No,Obesity class I,6.5,126,No
+Male,never,76,No,No,Obesity class I,7.5,155,Yes
+Female,current,26,Yes,No,Normal,4,100,No
+Male,former,78,No,No,Overweight,4.5,158,Yes
+Female,current,25,No,No,Overweight,6.2,126,No
+Male,ever,69,No,No,Obesity class II,5,158,Yes
+Male,former,54,No,No,Overweight,6.1,130,Yes
+Male,former,79,No,No,Overweight,4,140,Yes
+Male,current,28,No,No,Obesity class II,4,100,No
+Female,never,35,No,No,Overweight,4.8,100,No
+Female,never,80,Yes,No,Obesity class I,4.5,160,Yes
+Female,current,48,No,No,Normal,4,80,No
+Female,never,42,No,No,Overweight,6,155,Yes
+Female,never,80,No,No,Overweight,6.2,159,Yes
+Female,never,67,No,No,Normal,5.8,140,Yes
+Female,never,28,No,No,Normal,6.2,155,Yes
+Male,never,80,No,No,Overweight,6.6,260,Yes
+Male,current,30,No,No,Overweight,6,159,Yes
+Male,former,57,No,No,Overweight,4,158,Yes
+Female,ever,48,No,No,Obesity class II,5.8,100,No
+Female,never,58,No,No,Obesity class II,6.5,159,Yes
+Female,never,33,No,No,Normal,5.7,158,Yes
+Female,current,57,Yes,No,Normal,6.2,159,Yes
+Female,former,49,No,No,Obesity class III,6.5,126,No
+Male,former,25,No,No,Obesity class I,4.8,130,Yes
+Female,never,80,No,No,Normal,6.5,126,No
+Female,current,45,No,No,Obesity class I,4.5,90,No
+Female,never,38,No,No,Overweight,6.1,145,Yes
+Male,former,46,No,No,Overweight,3.5,126,No
+Female,current,46,Yes,Yes,Overweight,5.7,220,Yes
+Female,never,38,Yes,No,Obesity class II,6.6,160,Yes
+Female,never,45,Yes,No,Obesity class II,4.5,158,Yes
+Male,former,67,No,No,Obesity class II,6.6,100,Yes
+Male,former,52,No,No,Overweight,6.6,126,Yes
+Female,never,39,No,No,Overweight,5.8,155,Yes
+Male,former,49,Yes,No,Overweight,5.7,159,Yes
+Female,never,52,No,No,Overweight,6,90,No
+Male,former,57,No,No,Overweight,3.5,158,Yes
+Male,never,71,No,No,Overweight,3.5,140,Yes
+Female,never,46,No,No,Overweight,5.7,85,No
+Female,never,71,No,No,Obesity class I,4.8,90,No
+Male,never,49,No,No,Overweight,4.5,155,Yes
+Male,never,39,No,No,Overweight,5.7,90,No
+Female,never,75,No,No,Obesity class I,5.8,85,No
+Male,ever,40,No,No,Obesity class I,4.5,159,Yes
+Male,never,43,No,No,Overweight,8.8,220,Yes
+Female,never,58,No,Yes,Overweight,6.6,90,Yes
+Female,former,62,Yes,No,Obesity class II,6.2,145,Yes
+Female,never,27,No,No,Normal,6.5,158,Yes
+Male,former,57,Yes,No,Obesity class I,7,260,Yes
+Male,never,28,No,No,Overweight,6.2,130,Yes
+Male,former,80,No,No,Overweight,5.7,126,No
+Female,never,50,No,No,Normal,6.2,90,No
+Female,never,41,No,No,Obesity class I,6,140,Yes
+Female,former,55,Yes,No,Obesity class III,4.5,140,Yes
+Female,never,47,No,No,Overweight,4,90,No
+Male,current,30,No,No,Obesity class I,4,90,No
+Female,never,44,No,No,Overweight,6.6,85,Yes
+Male,current,28,No,No,Normal,6.5,155,Yes
+Male,never,51,No,No,Obesity class I,5,160,Yes
+Male,never,52,No,No,Normal,6.1,140,Yes
+Female,never,73,No,No,Obesity class I,4.8,155,Yes
+Female,never,43,No,No,Obesity class I,6.5,130,Yes
+Female,current,37,No,No,Normal,3.5,160,Yes
+Male,current,33,No,No,Obesity class I,4.8,160,Yes
+Female,current,47,No,No,Overweight,4.8,100,No
+Male,former,80,No,No,Overweight,5.7,90,No
+Female,never,80,No,No,Normal,3.5,140,Yes
+Female,never,44,No,No,Overweight,3.5,160,Yes
+Female,never,30,No,No,Normal,5.8,130,Yes
+Female,never,68,No,No,Overweight,4,100,No
+Female,never,55,No,No,Overweight,3.5,155,Yes
+Female,never,52,No,No,Obesity class III,4,80,No
+Male,never,26,No,No,Overweight,5,126,No
+Female,former,33,No,No,Overweight,6.6,200,Yes
+Female,never,80,No,No,Normal,3.5,200,Yes
+Female,former,48,No,No,Overweight,6,126,No
+Female,former,45,No,No,Obesity class I,4.8,130,Yes
+Female,never,45,No,No,Obesity class I,5,145,Yes
+Male,current,54,No,No,Normal,5,100,No
+Female,never,80,Yes,No,Overweight,4,155,Yes
+Female,current,43,No,No,Overweight,6.1,200,Yes
+Male,former,74,No,No,Normal,5.8,85,No
+Female,current,30,No,No,Overweight,4.5,155,Yes
+Female,current,32,No,No,Overweight,6,85,No
+Female,never,46,No,No,Obesity class III,6.6,126,Yes
+Male,ever,51,Yes,No,Overweight,5.7,200,Yes
+Female,former,28,No,No,Obesity class I,5,158,Yes
+Female,former,32,No,No,Overweight,5.7,80,No
+Female,never,53,No,No,Overweight,6.5,160,Yes
+Male,never,57,Yes,No,Obesity class I,4.8,160,Yes
+Female,never,58,No,No,Overweight,6.6,145,Yes
+Female,never,66,No,No,Overweight,3.5,159,Yes
+Male,former,30,No,No,Overweight,5,160,Yes
+Female,never,62,No,No,Normal,4,200,Yes
+Male,never,65,No,No,Obesity class I,4.8,130,Yes
+Female,never,25,No,No,Underweight,5,130,Yes
+Female,never,80,No,No,Overweight,4.5,200,Yes
+Male,current,27,No,No,Overweight,6.1,100,No
+Female,never,35,No,No,Normal,4.8,145,Yes
+Male,never,77,Yes,No,Obesity class I,6.1,158,Yes
+Female,never,40,No,No,Obesity class II,6,159,Yes
+Female,never,63,No,No,Overweight,3.5,160,Yes
+Male,never,27,No,No,Normal,4.8,85,No
+Male,ever,34,No,No,Overweight,6.2,85,No
+Female,ever,54,No,No,Overweight,6.2,145,Yes
+Female,never,26,No,No,Overweight,6.1,159,Yes
+Female,former,59,No,No,Overweight,5.7,160,Yes
+Female,never,52,No,No,Normal,6.5,85,No
+Male,current,30,No,No,Obesity class I,6.5,90,No
+Female,never,58,No,No,Overweight,5.8,100,No
+Male,current,46,No,No,Normal,5.8,200,Yes
+Female,never,72,No,No,Underweight,4.5,126,No
+Female,former,37,No,No,Overweight,6.1,145,Yes
+Female,former,69,No,No,Obesity class I,6.6,145,Yes
+Female,former,28,No,No,Obesity class III,3.5,160,Yes
+Female,never,56,No,No,Normal,4.8,130,Yes
+Male,former,41,No,Yes,Obesity class I,8.8,159,Yes
+Male,never,62,No,No,Overweight,6,80,No
+Female,never,74,No,No,Overweight,4.8,90,No
+Female,never,73,No,No,Underweight,6.6,80,Yes
+Male,former,45,No,Yes,Obesity class I,4.8,155,Yes
+Female,current,27,No,No,Overweight,5.8,159,Yes
+Female,never,80,Yes,No,Obesity class II,5.7,200,Yes
+Male,former,37,No,Yes,Obesity class I,4.5,100,No
+Male,current,49,No,No,Overweight,6.6,126,Yes
+Male,current,62,No,No,Overweight,6.1,159,Yes
+Male,never,56,No,No,Normal,3.5,130,Yes
+Male,never,59,Yes,No,Obesity class II,5.8,158,Yes
+Female,former,71,No,No,Obesity class I,6.2,100,No
+Male,former,34,No,No,Overweight,4.8,158,Yes
+Female,former,62,No,No,Overweight,4,145,Yes
+Female,never,49,No,No,Normal,4,100,No
+Female,never,36,No,No,Normal,5.7,200,Yes
+Male,current,25,No,No,Normal,6.5,80,No
+Female,never,28,No,No,Overweight,4.5,159,Yes
+Female,former,80,Yes,No,Overweight,5.7,90,No
+Female,current,31,No,No,Overweight,5,130,Yes
+Female,current,68,No,No,Overweight,6.6,100,Yes
+Male,never,48,No,No,Overweight,6.1,159,Yes
+Female,never,27,No,No,Obesity class II,5.8,90,No
+Female,current,46,No,No,Overweight,4.8,145,Yes
+Female,never,79,No,No,Overweight,6.1,85,No
+Male,never,39,No,No,Overweight,6.6,140,Yes
+Female,former,75,Yes,No,Overweight,6,200,Yes
+Female,former,72,No,No,Overweight,6.5,159,Yes
+Male,never,80,No,Yes,Overweight,6.2,126,No
+Female,never,41,No,No,Overweight,4.5,85,No
+Female,former,42,No,No,Overweight,3.5,145,Yes
+Male,never,45,No,No,Normal,5,130,Yes
+Female,current,50,No,No,Overweight,6.6,155,Yes
+Female,never,54,No,No,Normal,5.8,160,Yes
+Female,never,55,No,No,Normal,5,130,Yes
+Female,never,54,No,No,Normal,6.5,85,No
+Female,never,60,No,No,Normal,5.8,160,Yes
+Male,former,65,Yes,No,Overweight,4.5,155,Yes
+Female,ever,32,No,No,Obesity class I,5.8,200,Yes
+Female,current,39,No,No,Obesity class I,9,240,Yes
+Female,former,42,No,No,Overweight,5,140,Yes
+Female,ever,27,No,No,Normal,5.7,85,No
+Male,never,80,No,No,Overweight,4.8,155,Yes
+Female,never,64,No,No,Overweight,6.1,158,Yes
+Male,never,25,No,No,Obesity class I,5.8,145,Yes
+Male,former,73,No,No,Obesity class I,5,140,Yes
+Female,current,33,No,No,Overweight,3.5,90,No
+Female,never,72,No,No,Overweight,8.8,159,Yes
+Female,never,76,No,No,Overweight,3.5,80,No
+Male,never,38,No,No,Normal,3.5,158,Yes
+Female,never,60,Yes,No,Obesity class III,6.2,145,Yes
+Male,never,26,No,No,Normal,6,140,Yes
+Female,never,75,No,No,Obesity class I,3.5,145,Yes
+Female,current,47,No,No,Overweight,6,100,No
+Female,never,56,No,No,Obesity class III,6,145,Yes
+Male,current,52,No,No,Obesity class II,5.8,100,No
+Male,ever,80,Yes,Yes,Obesity class I,4.8,158,Yes
+Female,never,50,No,No,Obesity class II,5.7,126,Yes
+Male,current,28,No,No,Overweight,4,140,Yes
+Female,never,34,No,No,Normal,4,140,Yes
+Female,current,50,No,No,Overweight,4,140,Yes
+Male,never,72,Yes,No,Obesity class III,5.7,90,No
+Female,never,70,No,No,Obesity class III,5.7,260,Yes
+Male,current,58,Yes,No,Obesity class II,6.6,159,Yes
+Male,current,32,No,No,Overweight,6.8,280,Yes
+Female,never,80,No,No,Overweight,6.6,80,Yes
+Male,former,79,No,No,Overweight,5.8,126,No
+Male,former,79,No,No,Overweight,6,220,Yes
+Female,never,47,No,No,Normal,4.5,160,Yes
+Female,former,31,No,No,Overweight,5,100,No
+Male,former,35,No,No,Normal,5.8,80,No
+Female,never,38,No,No,Overweight,4,160,Yes
+Male,never,45,No,No,Overweight,4,130,Yes
+Female,former,34,No,No,Overweight,4.5,158,Yes
+Female,former,75,No,No,Overweight,6.6,160,Yes
+Female,never,70,No,No,Obesity class I,6,126,No
+Female,former,51,No,No,Obesity class I,6,200,Yes
+Female,never,76,No,Yes,Obesity class II,5,155,Yes
+Female,never,61,No,No,Obesity class I,6.6,90,Yes
+Male,never,60,Yes,No,Obesity class I,4,80,No
+Female,current,33,Yes,No,Overweight,6.5,159,Yes
+Female,never,55,No,No,Normal,4.5,130,Yes
+Male,never,47,No,No,Obesity class I,5.8,130,Yes
+Male,current,65,No,No,Overweight,5.7,140,Yes
+Female,ever,59,No,No,Overweight,3.5,130,Yes
+Female,never,32,No,No,Obesity class I,5.8,155,Yes
+Female,former,80,No,No,Overweight,5.7,100,No
+Female,never,54,No,No,Obesity class II,6.6,160,Yes
+Female,former,67,No,No,Normal,6,140,Yes
+Female,never,80,Yes,No,Obesity class I,6.6,145,Yes
+Female,never,80,Yes,No,Overweight,5.8,200,Yes
+Male,never,37,No,No,Normal,8.8,220,Yes
+Female,never,26,No,No,Overweight,4,158,Yes
+Female,never,43,Yes,No,Overweight,5.8,130,Yes
+Female,never,72,No,No,Overweight,6.2,100,No
+Male,current,48,Yes,No,Overweight,8.2,155,Yes
+Female,never,78,No,No,Overweight,4,160,Yes
+Male,never,31,No,No,Overweight,6,160,Yes
+Male,ever,26,No,No,Overweight,4.8,126,No
+Male,former,25,No,No,Obesity class I,4.5,140,Yes
+Female,former,25,No,No,Obesity class I,6.5,145,Yes
+Male,former,68,No,No,Overweight,4,155,Yes
+Female,never,57,No,No,Normal,4,80,No
+Female,never,43,No,No,Overweight,6.5,80,No
+Male,former,66,No,Yes,Obesity class I,5.8,126,No
+Male,former,47,No,No,Overweight,4,100,No
+Male,former,65,No,No,Obesity class I,6.2,130,Yes
+Female,current,33,No,Yes,Overweight,6.5,130,Yes
+Female,former,26,No,No,Normal,5.7,140,Yes
+Female,never,55,No,No,Obesity class I,4.5,130,Yes
+Female,never,28,Yes,No,Obesity class III,6.2,160,Yes
+Male,former,51,No,No,Obesity class I,6.6,130,Yes
+Male,never,47,No,No,Overweight,4.8,159,Yes
+Female,never,42,No,No,Overweight,3.5,90,No
+Male,never,35,No,No,Obesity class II,4.5,80,No
+Female,never,80,No,No,Overweight,5.8,200,Yes
+Male,never,56,Yes,No,Normal,4.8,130,Yes
+Female,never,41,No,No,Overweight,6.1,85,No
+Female,never,57,No,No,Obesity class I,6.2,200,Yes
+Female,former,78,No,No,Obesity class II,5,130,Yes
+Male,current,42,No,No,Overweight,5.7,260,Yes
+Female,ever,80,No,No,Normal,6.6,90,Yes
+Female,current,36,No,No,Obesity class III,5,90,No
+Female,never,80,Yes,No,Overweight,6.8,130,Yes
+Female,never,45,No,No,Obesity class II,6.2,145,Yes
+Female,former,60,No,No,Overweight,3.5,160,Yes
+Female,never,52,No,No,Overweight,3.5,160,Yes
+Female,never,49,No,No,Normal,5,85,No
+Female,former,75,No,No,Normal,8.2,145,Yes
+Male,never,33,No,No,Obesity class III,4,158,Yes
+Female,never,39,No,No,Normal,6.2,140,Yes
+Female,never,76,No,No,Overweight,6,80,No
+Female,never,30,No,No,Obesity class II,6,80,No
+Male,former,54,No,No,Normal,5.7,140,Yes
+Male,former,51,No,No,Obesity class II,6,140,Yes
+Male,former,80,No,Yes,Overweight,7.5,160,Yes
+Female,former,65,No,No,Obesity class III,6.8,159,Yes
+Female,current,36,No,No,Overweight,6.6,85,Yes
+Male,never,69,No,No,Obesity class I,5.8,85,No
+Female,never,39,No,No,Normal,4.5,158,Yes
+Female,never,52,No,No,Obesity class I,6,130,Yes
+Female,never,80,No,No,Overweight,3.5,200,Yes
+Female,never,51,No,No,Obesity class II,6.1,140,Yes
+Female,never,55,No,No,Overweight,5,155,Yes
+Female,never,48,No,No,Normal,4,158,Yes
+Female,never,49,No,No,Normal,3.5,155,Yes
+Male,never,43,No,No,Obesity class III,5,130,Yes
+Female,never,27,No,No,Normal,5.8,158,Yes
+Female,former,39,No,No,Normal,6.5,220,Yes
+Male,former,80,No,Yes,Normal,5.8,145,Yes
+Female,current,69,No,Yes,Overweight,5.7,300,Yes
+Female,former,63,No,No,Normal,5.8,140,Yes
+Female,never,42,No,No,Normal,9,159,Yes
+Female,never,59,No,No,Obesity class II,5.7,140,Yes
+Female,former,59,No,No,Overweight,5.7,158,Yes
+Female,never,80,No,No,Obesity class II,4,200,Yes
+Female,current,25,No,No,Overweight,3.5,80,No
+Female,former,33,No,No,Overweight,3.5,160,Yes
+Female,never,39,No,No,Normal,6.2,155,Yes
+Female,former,53,No,No,Overweight,6.6,155,Yes
+Male,former,63,No,No,Overweight,4.5,158,Yes
+Male,former,48,No,No,Overweight,5.7,155,Yes
+Female,never,51,No,No,Normal,6.5,200,Yes
+Male,never,65,Yes,No,Overweight,7.5,130,Yes
+Female,former,52,No,No,Obesity class III,4.8,145,Yes
+Female,never,64,Yes,No,Overweight,4.8,145,Yes
+Female,never,64,No,No,Obesity class II,7.5,240,Yes
+Male,never,44,No,No,Obesity class III,5,155,Yes
+Male,ever,50,No,Yes,Overweight,4.8,160,Yes
+Female,current,52,No,No,Overweight,3.5,130,Yes
+Female,never,59,No,No,Overweight,6.6,140,Yes
+Male,never,27,No,No,Normal,4.5,85,No
+Male,ever,36,No,No,Overweight,6.1,145,Yes
+Female,former,64,No,No,Overweight,6.2,200,Yes
+Female,former,37,No,No,Normal,6,85,No
+Male,former,70,No,No,Obesity class I,5,159,Yes
+Female,ever,73,No,No,Overweight,6,130,Yes
+Female,never,31,No,No,Underweight,6.6,155,Yes
+Female,never,36,No,No,Normal,6.5,90,No
+Male,never,80,No,No,Normal,4.5,155,Yes
+Male,former,49,No,No,Overweight,6,155,Yes
+Male,former,57,No,No,Obesity class I,5,100,No
+Female,current,38,No,No,Overweight,5.7,80,No
+Female,ever,65,No,No,Overweight,6.1,145,Yes
+Female,never,36,No,No,Obesity class I,4.5,100,No
+Female,former,62,No,No,Overweight,6,160,Yes
+Female,never,29,No,No,Normal,6.2,140,Yes
+Male,former,40,No,No,Obesity class I,6,85,No
+Female,never,77,No,No,Overweight,6.5,130,Yes
+Female,former,37,No,No,Overweight,3.5,140,Yes
+Female,former,76,No,No,Overweight,6.2,200,Yes
+Female,current,29,No,No,Obesity class I,6,85,No
+Female,never,49,No,No,Normal,3.5,200,Yes
+Female,former,58,Yes,No,Overweight,6.5,200,Yes
+Female,former,49,No,No,Obesity class II,4.8,159,Yes
+Male,never,52,No,Yes,Obesity class II,8.2,155,Yes
+Male,never,61,Yes,No,Overweight,6,155,Yes
+Male,former,78,Yes,Yes,Overweight,8.8,155,Yes
+Male,former,80,No,Yes,Overweight,5.8,158,Yes
+Male,never,80,No,No,Overweight,6.2,100,No
+Male,never,60,No,No,Overweight,4,145,Yes
+Female,former,40,No,No,Overweight,5.7,126,No
+Female,never,80,No,No,Normal,4.5,85,No
+Male,former,52,No,No,Overweight,6,159,Yes
+Male,never,51,No,No,Overweight,5.8,90,No
+Male,never,45,No,No,Overweight,7,200,Yes
